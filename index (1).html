@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Miami Wire</title>
+<link href="https://fonts.googleapis.com/css2?family=Poiret+One&family=Hind+Siliguri:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#fff3dc;--card:#fffaf0;--ink:#0e1b2c;--mute:#5d6b78;--teal:#0b7a75;--coral:#ff6b57;--line:#e6d3ae}
+@media (prefers-color-scheme:dark){:root{--bg:#0e1b2c;--card:#15273d;--ink:#fff3dc;--mute:#9fb0bf;--teal:#4fd1c5;--coral:#ff8a78;--line:#243a54}}
+*{box-sizing:border-box;margin:0}
+body{background:var(--bg);color:var(--ink);font-family:'Hind Siliguri',system-ui,sans-serif;line-height:1.5}
+.wrap{max-width:1000px;margin:0 auto;padding:0 16px 60px}
+.top{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;padding:26px 0 14px;border-bottom:3px double var(--ink);flex-wrap:wrap}
+h1{font-family:'Poiret One',serif;font-size:clamp(38px,9vw,68px);line-height:.95;letter-spacing:2px;font-weight:400}
+h1 span{color:var(--coral)}
+.wx{text-align:right;font-size:14px;color:var(--mute)}
+.wx b{display:block;font-size:34px;color:var(--ink);line-height:1;font-weight:600}
+.brief{margin:20px 0;padding:16px 18px;background:var(--card);border-left:6px solid var(--coral);border-radius:4px 16px 4px 16px;white-space:pre-line}
+.brief h2{font-size:16px;margin-bottom:6px;color:var(--teal)}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:16px 0}
+.chip{background:transparent;border:1.5px solid var(--ink);color:var(--ink);padding:6px 15px;border-radius:99px;font:inherit;font-weight:500;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--ink);color:var(--bg)}
+input{flex:1;min-width:160px;padding:8px 14px;border-radius:99px;border:1.5px solid var(--line);background:var(--card);color:var(--ink);font:inherit}
+.chip:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid var(--coral);outline-offset:2px}
+.list{display:grid;gap:12px}
+.item{display:grid;grid-template-columns:1fr auto;gap:12px;background:var(--card);border:1px solid var(--line);border-radius:4px 16px 4px 16px;padding:14px 16px}
+.item a{color:var(--ink);text-decoration:none;font-weight:600;font-size:18px;line-height:1.35}
+.item a:hover{color:var(--teal);text-decoration:underline}
+.meta{font-size:13px;color:var(--mute);margin-top:4px}
+.meta i{font-style:normal;color:var(--teal);font-weight:600}
+.save{background:none;border:0;font-size:22px;cursor:pointer;color:var(--coral);align-self:start}
+.empty{padding:50px 10px;text-align:center;color:var(--mute)}
+footer{margin-top:34px;text-align:center;font-size:13px;color:var(--mute)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <h1>The Miami <span>Wire</span></h1>
+    <div class="wx" id="wx"></div>
+  </div>
+  <div id="brief"></div>
+  <div class="bar" id="cats"></div>
+  <div class="bar"><input id="q" type="search" placeholder="Search headlines" aria-label="Search headlines"></div>
+  <main class="list" id="list"></main>
+  <footer id="foot">Headlines link to the original publishers.</footer>
+</div>
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let data = {items:[]}, cat = "All", saved = [];
+try { saved = JSON.parse(localStorage.getItem("saved") || "[]"); } catch(e) {}
+
+const WX = c => c===0?"Clear":c<4?"Partly cloudy":c<50?"Fog":c<70?"Rain":c<80?"Rain":c<90?"Showers":"Thunderstorm";
+function ago(iso){
+  const m = Math.max(1, Math.round((Date.now() - new Date(iso)) / 60000));
+  return m < 60 ? m + " min ago" : m < 1440 ? Math.round(m/60) + " h ago" : Math.round(m/1440) + " d ago";
+}
+function chips(){
+  const names = ["All", ...new Set(data.items.map(i => i.cat)), "Saved"];
+  $("#cats").innerHTML = names.map(n =>
+    `<button class="chip" aria-pressed="${n===cat}" data-c="${esc(n)}">${esc(n)}</button>`).join("");
+  document.querySelectorAll("[data-c]").forEach(b => b.onclick = () => { cat = b.dataset.c; chips(); render(); });
+}
+function render(){
+  const q = $("#q").value.trim().toLowerCase();
+  let items = data.items.filter(i =>
+    (cat === "All" || (cat === "Saved" ? saved.includes(i.link) : i.cat === cat)) &&
+    (!q || (i.title + i.source).toLowerCase().includes(q)));
+  $("#list").innerHTML = items.length ? items.map(i => `
+    <article class="item">
+      <div><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+      <div class="meta"><i>${esc(i.source)}</i> · ${ago(i.time)} · ${esc(i.cat)}</div></div>
+      <button class="save" data-l="${esc(i.link)}" aria-label="Save">${saved.includes(i.link) ? "★" : "☆"}</button>
+    </article>`).join("")
+    : `<div class="empty">${data.updated ? "No headlines match." : "No data yet. Run the “Update news” workflow once in the Actions tab."}</div>`;
+  document.querySelectorAll(".save").forEach(b => b.onclick = () => {
+    const l = b.dataset.l;
+    saved = saved.includes(l) ? saved.filter(x => x !== l) : [...saved, l];
+    try { localStorage.setItem("saved", JSON.stringify(saved)); } catch(e) {}
+    render();
+  });
+}
+async function init(){
+  try { data = await (await fetch("news.json?t=" + Date.now())).json(); } catch(e) {}
+  if (data.weather) $("#wx").innerHTML = `Miami now<b>${data.weather.temp}°F</b>${WX(data.weather.code)} · feels ${data.weather.feels}° · wind ${data.weather.wind} mph`;
+  if (data.brief) $("#brief").innerHTML = `<div class="brief"><h2>Today’s brief</h2>${esc(data.brief)}</div>`;
+  if (data.updated) $("#foot").textContent = "Updated " + ago(data.updated) + ". Refreshes automatically. Headlines link to the original publishers.";
+  chips(); render();
+}
+$("#q").oninput = render;
+init();
+</script>
+</body>
+</html>
