@@ -1,25 +1,62 @@
 {
- "updated": "2026-11-15T06:43:03.370591+00:00",
- "weather": {
-  "temp": 59,
-  "feels": 55,
-  "wind": 8,
-  "code": 3
- },
+ "updated": "2026-11-15T07:53:31.724325+00:00",
+ "weather": null,
  "brief": "",
  "items": [
   {
-   "title": "2 Planes Collide At Miami Airport Day After Flight Chaos Across US",
-   "source": "NDTV",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm9yU1ZyUnVQN280T3ZEa2ZBWDlRV1ktWmF4MGFXQk5iSXJ3eDlxMVhDRTNLZkhPejE5bXdoa2x6UkJaQ3hPdUVDbWFONmo1b3dhM25nY2w3WXBkM0xIc1Z0ODRlN2Z5VkZoMThtaFpDMG4wLTQ4Wm5hMkMydXdRaDNwbXU2cE9UYUtmeDE1NWRQTnFESFhUY1l0Yy1aOFFxZTJPQlJZWS1DMHVoRGczYmhKSlJ1dHBiTUo0eldReDRtU1BBanlFetIB0AFBVV95cUxQMU9BcUkxZXlDT3JhRGMwYXNyLWZIWkZwSHNwNjVGa25HRk1XTFIzdHc0QXhfVml4ZjA0N2VvTzBfcHQ1MEFfYTFySmxBV3pfd1N6M0lEc2F6VmJha1hqNU9jWVVRVzR5THhwRDc5dXZ4M252UERfdVNVSVB5ZTNKZ0RVMHE3TFFDcS1yNFR0RDBtblNXZ0lmbTU0YnVpOFV5MERWM3NRSnhCc2RrRWR1T0ZXYzA1NGt2Yk1MVEltb3RRUHNNei04V1Q4djdqZkN0?oc=5",
-   "time": "2026-11-15T06:18:58+00:00",
+   "title": "Planes collide at Miami runway crossing",
+   "source": "CNN",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTnJpVHpJYUFlWkdCREdJTmlTOElTeUpQaWhZdmxWb1AyUmRMa3F2YmtjcFFpUVBZTVN3a0xyMThzWWRiRjg5dUo3eWtUS0pxOUVfMDEtSV9sc1VLUEVLWm5rT2FJUWdQaHY2V0dOaWI4V0xiTTJvQlRtM3g4ZGUzOTBHSTdmNWcwNzN0TEQ0ZXl1d0hFeDBSWUF3dw?oc=5",
+   "time": "2026-11-15T07:37:00+00:00",
    "cat": "Top"
   },
   {
-   "title": "HEATWAVE: Miami Heat CRUSH Pistons—Giannis Antetokounmpo & Klay Thompson IGNITE Offense",
-   "source": "13newsnow.com",
-   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOTUdPb3NHZlFYcnZIT2ZmczlVQmdyUTNWb29oMFo1N29nczZxNFE0Q1VWaWxYN0NmSlRfM3Bwb3doM2FNZzhPay1PN2RRMmtaOE5ZOE0xaThHaVlBZTNPTXY1WFp1MFhJSFN1MlZXbFhwMWxwV1h6RDZEa2NaRVhWbk85TTZVNERldzlIR09fQ0VVVUFTWWxvS3o1cnlPaXRHZjdtOUk4R0R1QmtJUzJrblVrVVMtczJCRFYyV2RSTVZrcEpZcU5HQy1EMXZTeDVDd3BfNjM3Ty1SeHFqRWU0NHBMZzUzdkpfVVgzZTJKTlhsNGUweVI2WUoxYk1QZG5ORzJzZFZnQ09mUTRUSWRUeUZRa0VTZWtxbmxqeWZRM0dQM3A4c0E?oc=5",
-   "time": "2026-11-15T06:17:00+00:00",
+   "title": "Planes collide in Miami a day after a nationwide ground stop. Airlines may owe you nothing for hotels — who pays instead",
+   "source": "Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0lmMGd1R256NmhvWnh1RjVHLV9pSkZtU2NTcXV0WkdldzNVaWotZGlsQ3lhMmdQejVLdkFVMnVCSHpOczAtRTRlY1JncFZKTFhjZkxjaVRBSC1ldTFGY3I0Qmw3LUU1RGE1ZzlkNmlCTWNiOW1ac2ZEZnVlQjFEbTV1VXFzblJCOVhxN1dHelhhQXdtVno2aWpZcEhBM3lBUWc?oc=5",
+   "time": "2026-11-15T07:35:00+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "\"Somebody Hit Us\": Pilot's Chilling Audio After Miami Airport Collision",
+   "source": "NDTV",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjI2dXppYk9MeXJSWlJzOXNpaGk0UUYwOHNyZjR4TGd2VUgyNFJOX3lkdHZlYWxQVm5xQVE5Z0xnZnBSb1kyMHNmQ19DQTh4d0l1aVJwTEMycUU4X3lzam84dzhxUEt1eG84NnoxT1Z6cGF1QjhWRUQ1eDAwQVZ4eGxsOWNyTlJtdTZIOGlsOWx1WU1PM1hySTdrckZITHNaVjlTLWZkUkNEdDgwZFdsOTRlUW5aaV9FSzVDaXh0dkVNeWFyYmJN0gHPAUFVX3lxTFBfd2Z1MGRwQk1TdVdCb1BPVUdYTlotdWNqeTlZck9CaUlSNUdhM1B0NjZPSEVNU0ZmelVUY3J2ckdDLXY3aUZodjEyeWN4ZHRRQWl2X3pCQ3JhZU82UmRsQmZoVHQ5eUJhaUlZLVh6a0JwTlFqWUMtT0p4VjJacHFkenM2R3p3b2JRZHJFellvaDdRQ1duN2JGSExZelE0TXVoTUlmTkljYkxXMkM2ZFlxUkMzWWJzb1VFSkRjbU45enV3a00yRUNrS3p4WWxaOA?oc=5",
+   "time": "2026-11-15T07:08:44+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Duke Blue Devils at Miami (FL) Hurricanes - NCAAF Game Summary - Nov 14, 2026",
+   "source": "USA Today",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYWZyMGRYUnF6eG5jRWYtZFFMMEdqS0ZIcmZZSVQ2Q1BmN2ZYS3pma2tjN0xWTDBjX2xRUk1DdW53RDRncER0eXZ6bEVrdUppdHBqQnNzakxvTGsxWjR1b1Y3MmtJaGM0eGlvZU9iVjBJdnlCT2pmdVd4UnI3d0kzMUxDeVhGMDRlbWtLSnRlMzJHd3E2SVZRck13b0tBQjB4amUzOVRPd05UZE1mdS1lTXFtbHJvQVNSdWN2Q29hUHoza05SYmdvVDFhdlE5SXhIU01GbHdpdFJvU194RnNIRFRCelJJTmRaTmNmWHNjMkFLUXdD?oc=5",
+   "time": "2026-11-15T06:50:09+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "‘Somebody Hit Us’: UPS Boeing 767 Collides With Copa 737 In Miami After Taxiing Too Far",
+   "source": "Simple Flying",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNckpDUVZXQnJTSDVSdUF5WlFja0lEWWFQdzkyelVsdWpwU0xKTmtOZFFKX3JmMEx5QjB4RXVUTEJ4V2pqbkhtdkpwb0ZRdnhvN010eUgzbnd0S3VXcHBNOXRQanYyVS1KNWtWNmJqQ2ZYVWZqd19QenQwdE5aYndwTnhna0oyelU?oc=5",
+   "time": "2026-11-15T06:48:04+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Detroit Pistons 117 - Miami Heat 137: Final score, results, recap, box score, stats",
+   "source": "Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGMXpIVkZhbjBHRl90V1c3Q0VCUS1TVUt3QjBadVNGcWk3WkxnT25ER2I2RlQzVk91ZVhLQlpCNEdiTGlRMVFCVHh6YXNORTZLaGZZRVJPdWp4ZFNZTHhMbnY3X1VaS3VzVWNFUVFFVDhYNnhrVnc?oc=5",
+   "time": "2026-11-15T06:33:50+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Giannis powers Heat past Pistons for seventh win in last nine, now over .500",
+   "source": "Sun Sentinel",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeHl4SDN5Qm1laEV0Tll3MWwzZjMyUXo5MmtCbkRHaG1oTWJnZ3ZybVVhVkZOY2M0d2FUdjk2ZTBaaVFXR3NxTHUwZDI2MG1HVUpqZkwyUFg4X2VJTDFTdDJzVFlaaVp6MTNUczc1S3BoQkktNjZhTENSNmtVMnpreVFRb3pYUkkyTTY4MU1Ib3hXOEpRbXJuZzYyTXc5d0laRkRKVGhUeEFzRUsybVRWZjBudmhHQQ?oc=5",
+   "time": "2026-11-15T06:28:58+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Boeing Aircraft, Cargo Plane Collide At Miami Airport, 2 Passengers Injured",
+   "source": "NDTV",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSm9yU1ZyUnVQN280T3ZEa2ZBWDlRV1ktWmF4MGFXQk5iSXJ3eDlxMVhDRTNLZkhPejE5bXdoa2x6UkJaQ3hPdUVDbWFONmo1b3dhM25nY2w3WXBkM0xIc1Z0ODRlN2Z5VkZoMThtaFpDMG4wLTQ4Wm5hMkMydXdRaDNwbXU2cE9UYUtmeDE1NWRQTnFESFhUY1l0Yy1aOFFxZTJPQlJZWS1DMHVoRGczYmhKSlJ1dHBiTUo0eldReDRtU1BBanlFetIB0AFBVV95cUxQMU9BcUkxZXlDT3JhRGMwYXNyLWZIWkZwSHNwNjVGa25HRk1XTFIzdHc0QXhfVml4ZjA0N2VvTzBfcHQ1MEFfYTFySmxBV3pfd1N6M0lEc2F6VmJha1hqNU9jWVVRVzR5THhwRDc5dXZ4M252UERfdVNVSVB5ZTNKZ0RVMHE3TFFDcS1yNFR0RDBtblNXZ0lmbTU0YnVpOFV5MERWM3NRSnhCc2RrRWR1T0ZXYzA1NGt2Yk1MVEltb3RRUHNNei04V1Q4djdqZkN0?oc=5",
+   "time": "2026-11-15T06:18:58+00:00",
    "cat": "Top"
   },
   {
@@ -27,6 +64,13 @@
    "source": "HITC",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS2YxdXBsUms0b09LMURsenRtdnFDcEI0VG5HQXZibjlONXd6NF9wNmpBcjZDTFJNVE1iWnAzdGFFVkV2Z1ljMm5WcFduMDFhdFkwTjVwdldKbWdiWUdETEw1MjJhZWlqd3E3bkNoeTFpYjFHOENQNVhsckFxVVpRY1BHWUJKVHZaUHl3WTBqc0tWSlQx?oc=5",
    "time": "2026-11-15T06:13:43+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "No. 5 Notre Dame Avoids Post-Miami Letdown With Boston College Rout",
+   "source": "247Sports",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQSjVWYnFMWUhneDZFaGNjWkJXeWMyZEtUR29lcURHeHhHdVA5eHBXaklxTUVPR1JIV3ZIdk8tazF2N1lsdWluYTVsU1RHWXU5UjlERkdGUWo4OVBNWkxJQnZ2VmwtVWJncmMtOF9fMUZucGc3QktqdFlZdWZBSi16ZTUzM3RqNmV4R3ZTZmROR09YT0w3cGtJY1pCTktoUldFZ2taT2VmdmVaYmpvZU5qNmVLZnRFRmk5UlhtdDNRNzRld0M3R05nVnNpbDBDcVVOZU1jTTUxMWJubHlidkpYc2xQbDVsS0R0am11VWtWVlBmd3p4ZUtpb1lTUzMyTk01dFNEaW5ZN1pyVmd5NVc1b3JkNFdsNE1B?oc=5",
+   "time": "2026-11-15T06:09:48+00:00",
    "cat": "Top"
   },
   {
@@ -44,8 +88,22 @@
    "cat": "Culture"
   },
   {
+   "title": "Miami Dolphins @ Indianapolis Colts: Live game updates, stats, play-by-play",
+   "source": "Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM0RpaEdXQ1h3QVRWUTBXNVhLS1g3aURyNDJtRFJfVklkeDYzeXVmZFN6MUNyZTN4NUtKRm15OWYzTWpwT0tBY1lqbVJSZ0Nvck1raHpvWjBwMWlOeTlEbDdRdlNrWmlGWjBLTXlSLWFyS0FYSDZKeFZQa2pXWEJSTg?oc=5",
+   "time": "2026-11-15T05:59:17+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "UPS cargo plane collides with passenger jet at Miami International Airport",
+   "source": "Gulf Coast News and Weather",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ0laZ3AtbEhFcS1PT19ORWZUdkhybWhMXzBHT3dIWWlPX0xYT3ItZDJBVFBjOEYxZWhpcTJ1dHVhZEs3RF9JcHZzYzlBUmZoQTBqenViSjZVYjExenA1SVIxMHFFSDlXVUROVnZVV1U1UmpNbWpQMXhOaWNUT2hFRVAxM2U4bHA4RlJCTGZTTFk3NG1zZ19aRDZIcw?oc=5",
+   "time": "2026-11-15T05:55:00+00:00",
+   "cat": "Top"
+  },
+  {
    "title": "Copa, UPS Planes Collide on Miami Airport Tarmac While Taxiing",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmtPR29CRzk4ZnlRVGRUNU55eEpvUVFvd0RTRjR3aS1ZWGtBcG1XaS1nUEtIYm5GWVQzaXhOTE5QVEhVZVlhMG9hcjNwQ3JCbHE5VzEtOWFpemNPcWtjRkMzNThPWVM3U3pNMUtJQ0dFemFwSlJWSXlvenBuS293Z0hYTWRnNDEzQVNWZ2U3TEhVcVBCTFBFUzJhaGlXdFZ1RExHM2tjeXZ4ZEpCbVlSRHpB?oc=5",
    "time": "2026-11-15T05:50:00+00:00",
    "cat": "Top"
@@ -62,13 +120,6 @@
    "source": "Yahoo Sports",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZks2NFpERVJzY3dQVzNDbHJFTFhobkJqNFMycjRCWXdxcldRQi0yYmUwOE9ERGFiemItY3FzSGZWemdjV20xZllRaDdKZmpBT3gwLWxzRDJIR2ZsaDJpdnVKVl9TTGF4NXR2ZS1VbXhmSmQ3WXYwWGh6UURQdE9FMVBwUGpORWYzRjZv?oc=5",
    "time": "2026-11-15T05:31:47+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "UPS cargo jet and Copa Airlines plane collide on a Miami airport taxiway; airport says flights go on",
-   "source": "Nacionale",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZFhWR055c1pLOG85YUp2U0VXS1BENngxTW9XNVJpejRqVk5lVlZxck44MGlURUN2VXFuY2EtOENNRzlvWFhDVmNsX3M3VWJnenNoVXR5ay03cWpIazFOMnRFTHk1M0FPMGdyaWxQYmY1dU41QnVBdFljS3hjbTBwV1FNNXRVbWV2azJ0UlhVUjFHOEhxVExwdXFvVE5EemJKLXBac2VLd1pqWEVaaTZKa012LVlOV0lp?oc=5",
-   "time": "2026-11-15T05:22:41+00:00",
    "cat": "Top"
   },
   {
@@ -114,10 +165,10 @@
    "cat": "Top"
   },
   {
-   "title": "Detroit Pistons 117 - Miami Heat 137: Final score, results, recap, box score, stats",
-   "source": "Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGMXpIVkZhbjBHRl90V1c3Q0VCUS1TVUt3QjBadVNGcWk3WkxnT25ER2I2RlQzVk91ZVhLQlpCNEdiTGlRMVFCVHh6YXNORTZLaGZZRVJPdWp4ZFNZTHhMbnY3X1VaS3VzVWNFUVFFVDhYNnhrVnc?oc=5",
-   "time": "2026-11-15T05:03:41+00:00",
+   "title": "UPS, Copa Airlines planes collide at Miami airport",
+   "source": "Fox News",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iclY3aG5aVk1wTWNxT01hanpzd3JsOFBSbDJ4ZWNjQy1pdGxreHg5LVBvZW5QdTZvVmp5SFFhUnQxVnV0Mk1IX3R0QTF3VGxFY3dTMDZ3?oc=5",
+   "time": "2026-11-15T05:00:48+00:00",
    "cat": "Top"
   },
   {
@@ -130,8 +181,15 @@
   {
    "title": "HEAT Defeats Pistons 137-117 to Extend Winning Streak",
    "source": "NBA.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcHR3a3FmU1JhX2QtSlJGOFYwTDZMV2thRnBtZmg1N0t0c25Jclh3S0pzSWhDSllOVDM3THRQVVQ0azZYbDlYNkI3bFczdV9NMkx2S045VlVja28yYlIyZUM5ZEhzRW96cmNBQ3JSM1FSNGtzY2JmbkRROEpVZEJNNng0bG9hQ0pMaTE4ZGI1bW11S3gxWnVvdFJnX0Q3ZDVPOFE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1prSktlQ1g3cnJQVklRV2pKSVUtcHA1ay1pd3U3TmNldWktd05YTzN4LU1FWlcxNTMwUTYzU3E4VzNTQzFrZUhXMVZ6YTRuOTZhZ1VtalBLNTRhajl5aGFZVEM0ejBMTHpKaEg3Qnhaby1FTzZhbFk4OGFSQnlPWXNQVTFTQkZaQnF5cllPMVlNZnJzd2dN?oc=5",
    "time": "2026-11-15T04:54:00+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Two planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
+   "source": "The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONmN4VkNPZmpmUFJWcXVtaU5kS3FZM1plODgybXN4X3VVekJXeVM1aE9VMDdDMER0VHl6YUNqOXU5WnFIR2QxQ0VZYU1OSFVCd1ZLcU9qRjJlcGo0QWJJQ1ZvbWI4LTlaWHBPZmRWbERNNngyeDV3YnhSSWoxV0lmMktBOHp6eW1ldXpqaW5ZcWlSbWwtTlVJcmYwQ3hkcHF3a1Bjb3FtUDJSaGhjQTlQVldKYTd6RlZQOHJodlBzelZRX0xaTC1RRWozRXZVM1BtSEpkYkpCUTVNN2NKcWRKc1RScTB3UVgxR0ZKLdIB8gFBVV95cUxQeXZmUF9RZkpUREtGMzJ3M2REWVN3WUdvS0NoVExDa3d5MnRUY3VXRW8xa3ZJZGpwTjJodmNFM1NCVDVpbG5wUUNDZzY0cW1MMEdzQTFtVm9YU0hyN1lKSzVTT3NHU3FMSm05MUZ5M0YyZ2lEdmJ4d2JjN3ZHYnJUTVBWNHJ5MWRSOHhSY25FQ01tb1ppYXVyS3k0U0ZGem9SNVV2VzZtdG1rT0g0UEEwUmZMX05ST0hOaTd0dEQ3VDZsTm9sVDhHNzFhM1JJby1KTFhaUVBPZWZqaEJZUjhBUDI3OXZYeDBEeXlXcFN0bW84Zw?oc=5",
+   "time": "2026-11-15T04:52:00+00:00",
    "cat": "Top"
   },
   {
@@ -163,73 +221,10 @@
    "cat": "Top"
   },
   {
-   "title": "Miami Dolphins @ Indianapolis Colts: Live game updates, stats, play-by-play",
-   "source": "Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM0RpaEdXQ1h3QVRWUTBXNVhLS1g3aURyNDJtRFJfVklkeDYzeXVmZFN6MUNyZTN4NUtKRm15OWYzTWpwT0tBY1lqbVJSZ0Nvck1raHpvWjBwMWlOeTlEbDdRdlNrWmlGWjBLTXlSLWFyS0FYSDZKeFZQa2pXWEJSTg?oc=5",
-   "time": "2026-11-15T04:04:18+00:00",
-   "cat": "Top"
-  },
-  {
    "title": "UPS cargo plane, Copa Airlines passenger jet collide at Miami airport in US",
    "source": "Anadolu Ajansı",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnB5eXlCanUtMG1FdDh4ODd6anVGbGduaS1fN09NSXZRbHg2MVYyX3g0YS1lZm1aY3pYbGM0Z1ViWTNXNWxPU2EtSGVZTHdBWmJGYy1seVVLbDNBOHVXZzVreTVmYVlkLUN2N2hQYkgzYl9qUGdfTWJpdExrYm5OdkNlUHZXZUpGd05Vc0MxT0E4TUFLMjh4LVdDaXpqS3VGUlBpNFU5cGNlS3Z3dnNoZ0Zn?oc=5",
    "time": "2026-11-15T03:58:50+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "UPS cargo plane collides with commercial airliner at Miami airport",
-   "source": "New York Post",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRkpNeU9aR2lHV19XUW1BSnlaNHNPb1kyTFBpLVhldEJtVmJfczRFa0dfb0NpOGJQMTY3bnI2LWJpb3FmODlHamM4TDRWSjdvVnZnT1dwdHhxeDJma3BxRW9FUm1jUFZFRDRjTlJRVjU1MUc3cTlxcVlXckpEUVFSbTVybGcwcHRRV3FiT1ZKMmVFRE1mcWlFRjgwQnkwbWJDMkh6Tjk1U04?oc=5",
-   "time": "2026-11-15T03:58:00+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Heat 137-117 Pistons (Nov 14, 2026) Game Recap",
-   "source": "ESPN",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SdU5TNm56ZWRTaGxtSmZSbHdhb1hKVDBCM3VaV1FmVVkydHVtbV9WY3lsSURjWEZiVXNMSmJqUTZab2dROFNUTGtGSzQ1VWczTFRyelNJRFR5SHM?oc=5",
-   "time": "2026-11-15T03:55:57+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Heat’s surge continues with blowout home victory over Pistons for fourth straight win. Takeaways",
-   "source": "Miami Herald",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqZFZzSWozWTdRbnRQaVU3a3RNNmZ2UkRHWkdyczRObTBZWTlxSlp1WVp2eWxELW9jSTVGdTh1ZkxobXdYd2RFOXFvSS1KM1MwQmJ5U3JiRXl5MmlwaUpmR29WTXZwaHNPQ3ZocHdhRC1qeEk5eVowajhLVdIBe0FVX3lxTFBZS0NmMVozanRuSjBUTGJILXVaSHk5YU5mTE5GYnFzVWVTMFliZndOcjZiZ0FoMEp1WnE5OTMtQmgzYjJLOTNYNmJ1RXNaNmM5MFFhcFZ4RDBoYnY5YXE3ZUl0a0Jpa1dOaXFnZ0lIa2RzaW1TMUxQTXU3bw?oc=5",
-   "time": "2026-11-15T03:54:44+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "2 aircraft make contact on Miami International Airport taxiway",
-   "source": "WPLG Local 10",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1c5RFc2YUdjdnJfSXJrWXhJSmx2TFRzOWcxam1vblBhcHJ5bndQMlhvMmx2RVlrMFBVTGRSd3JHa2g3NGVPbVlnT1MxSTY0b0N1YzgySjhhdWpGZzluLWlHLVhna01LaW1XZW9QMGFybHlnTFo2QU5yY3hXcl9sN0NWdVN2d1RWbHV2UzF4V1pRVDd4RG9fajFlWjRFOE1QNGVuRmYxR3hmcmdsWXc?oc=5",
-   "time": "2026-11-15T03:50:48+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Winderman’s view: Giannis gave Heat reason to believe, now with another payoff vs. Pistons",
-   "source": "Sun Sentinel",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVFhBTmtzem9HWk5XYlBGMklOSTN3VERqRnd2VXRJRU5Vc01yMXdUWURkd0QyYjFrakJqU1FSWndzWjN0RWc5alZyc2w1eWJmSzhoOXNwR0drbThpZEUzaWxsYUVPSi1ETlA0MHlqeFJZVHl1dm40UUN2VFNCeHRNLUU3TmRTTFRiby1RMGZEM0hhczdDU0VwdXdsVXJ5cVhYNDRIcWtuZzBvckNsLVByQ2djR2hfdGlQODdGWURDRVBnbzJZcnc?oc=5",
-   "time": "2026-11-15T03:47:20+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Giannis powers Heat past Pistons for seventh win in last nine, now over .500",
-   "source": "Sun Sentinel",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeHl4SDN5Qm1laEV0Tll3MWwzZjMyUXo5MmtCbkRHaG1oTWJnZ3ZybVVhVkZOY2M0d2FUdjk2ZTBaaVFXR3NxTHUwZDI2MG1HVUpqZkwyUFg4X2VJTDFTdDJzVFlaaVp6MTNUczc1S3BoQkktNjZhTENSNmtVMnpreVFRb3pYUkkyTTY4MU1Ib3hXOEpRbXJuZzYyTXc5d0laRkRKVGhUeEFzRUsybVRWZjBudmhHQQ?oc=5",
-   "time": "2026-11-15T03:45:18+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "2 Injured After UPS, Copa Airlines Planes Collide At Miami Airport: Officials",
-   "source": "Patch",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHVEdnpPMmtBUUJJeXpfbHYwVVV6eHd6TWJrTnowSUNrN2Z5QjhrUFNFcnF0VzVqRmQ2TWV4U2plQlF2azhFVV90UVRnZk5lTFFwR05kUGJJeThjNm44YmJfeWpPdXJEMG1COHFsWi1VWjJXUDdyeFdiOENzY2JObl9fOFFyaDExMWZnYURDLVZCQThiQVJCMEFURXpkb2xH0gG2AUFVX3lxTFBIOTJpb1B4WTNmaHotR3FqZnE5N2xudDNiYmsxZWpuMWVCaFpiQ3BfUjZWd2k5MHJhVTQxbWZGZE15MVZTNDNSNnFrSTFjU0d4WC1zdVBsamNXVTlncFBiQW9RYjdPb3V5S29kNXduSDUwNExSQ01xc0cwOExuWkxwem9UV1hPbTJFUi1vRWR5NFc0ZHpaY3FrYkZPZjdPQS1lS3czTWVOWlNoWFJWbmdyU0FXdDJB?oc=5",
-   "time": "2026-11-15T03:42:00+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "UPS cargo plane collides with passenger jet at Miami International Airport",
-   "source": "Gulf Coast News and Weather",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ0laZ3AtbEhFcS1PT19ORWZUdkhybWhMXzBHT3dIWWlPX0xYT3ItZDJBVFBjOEYxZWhpcTJ1dHVhZEs3RF9JcHZzYzlBUmZoQTBqenViSjZVYjExenA1SVIxMHFFSDlXVUROVnZVV1U1UmpNbWpQMXhOaWNUT2hFRVAxM2U4bHA4RlJCTGZTTFk3NG1zZ19aRDZIcw?oc=5",
-   "time": "2026-11-15T03:40:00+00:00",
    "cat": "Top"
   },
   {
@@ -359,20 +354,6 @@
    "cat": "Sports"
   },
   {
-   "title": "Miami’s Malachi Toney Draws Attention With Pregame Appearance While Sidelined",
-   "source": "Yahoo Sports",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0tEWDBaZmtJLXNWY2d0TnA0cFlxZURGUktXanRXdHplTms3cXRveTV2WUpfQ2FXZnJlc3lBM0hVVWlEMkh3Ujl3V0xsY1draGxGQmVTUHhFT2NsaEpmVm9kMWtJMkZRcEVnYWdYMzg4Unk1Z055bE9EMnlwLTUtZlhJYkxmLVhXV1U4SA?oc=5",
-   "time": "2026-11-14T20:26:16+00:00",
-   "cat": "Sports"
-  },
-  {
-   "title": "A Powerboat Racer’s Never-Lived-In Miami Mansion Lists for $43.9 Million",
-   "source": "Realtor.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlVIUlp3WTl0QTJ6V3BrWUc4M1VFUzh0WDJ1TS1yazl2Rk41U19oWUVwNDB2VzI3VTRFdHBPUzNJaXBuY2xXLVlCTTVXbHd6Ykg5UXJUV29kQUhRNEJYNDVkUE1VcVBEVU5KanFkZTFyb3VRemhkaWRVZTJtWGxXaDRXMWZZV0dhRmo2dVg1RE5DS2dNOGNxZVhIWTU1Tl9nT1NzSnlhMEc0cF95bGwzQ1ZZRQ?oc=5",
-   "time": "2026-11-14T20:14:00+00:00",
-   "cat": "Business"
-  },
-  {
    "title": "Little Haiti Breaks Ground on Miami-Dade’s First Land Trust Homes",
    "source": "South Florida Caribbean News",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORjNZVHpJYU5SREdhQjk1YnF2ZHgyQlFGLUNWbFZtWkg2azZOd1F5ZXdwRTQ4WkNhNmVPd3Job0lSdGo4eUl3cGcwQ19TLXZha3F0LUtCdFotaGtCVUpJRHgwYk5EZkNWM05QbFV6NHVfNFVIUVo0NkJ2WVlXZ3REQ3JHbDR2N3BrcTMxNGFsdXU4RXEy0gGUAUFVX3lxTE5GM1lUeklhTlJER2FCOTVicXZkeDJCUUYtQ1ZsVm1aSDZrNk53UXlld3BFNDhaQ2E2ZU93cmhvSVJ0ajh5SXdwZzBDX1MtdmFrcXQtS0J0Wi1oa0JVSklEeDBiTkRmQ1YzTlBsVXo0dV80VUhRWjQ2QnZZWVdndERDckdsNHY3cGtxMzE0YWx1dThFcTI?oc=5",
@@ -471,11 +452,25 @@
    "cat": "Business"
   },
   {
+   "title": "Exclusive | A Powerboat Racer’s Never-Lived-In Miami Mansion Lists for $43.9 Million",
+   "source": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGNHZzBDYVN3NGN6enJDUnZfc1EteDFrT1lNZy04Z05tZnBRal9xcmljbExXVTRsS0ZoSDNmZkZpZmx3UFhHcGI3enFWYWVNWS1FWEVheDNVNDFQbFhiSHpDMHdGTnU0U1FzTXNCY2R5REVYcTBxNTFKT0hIMXU2SnJfM2VxZw?oc=5",
+   "time": "2026-11-14T16:31:21+00:00",
+   "cat": "Business"
+  },
+  {
    "title": "Kyle McCord makes Miami Dolphins debut: What to watch from new QB1",
    "source": "Chat Sports",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWl5ZkpWRG5tSHFqWkRGSXNNS3g3ZmhfY0x1Uko3R2gyVTQ1bC12QkR2VTB5bkp1a01Odk1ycUJvN1kyTnlHYTlLSVYzcWxacUNTaVhwWGpvbGJTelc5XzFFejBKNWJFMzF0eE5VVC02VGloWVFhMVNXc291UnB2bmxIRUJ6dkxvUXg0ZHhfczBZc3BwUUdzaW9GWmpqLWpQR0VmNHluSjVwMkVha294ei1IaUswQQ?oc=5",
    "time": "2026-11-14T16:10:02+00:00",
    "cat": "Sports"
+  },
+  {
+   "title": "Duke vs Miami Prediction, Odds, Time: Saturday College Football Picks",
+   "source": "Action Network",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkJoYTlObFMxSzVLbkEydlBOYmZMZ3liaXVmNUNEcjREMmk2a2ZQbmdIeVdVNFVXRU9yLXotVVdvdTk1OUpUMWtSYmtlV0FMdnA0V1BvOEhyYlFLOENxNDVvMHE0eXd1ek1NM3JfUHluWmpyY0xUOW9lVktqWUotaDhJa2ZLMU4zcVNMWWVCc1pyZEVoaTF4d3F4Y1RmNEg5ekN2Z2c3bDk4RWRXeWVIZ1pBb3AwLTIyQTBDVFBRNE9RLWxEbHNlWUdCWQ?oc=5",
+   "time": "2026-11-14T16:00:00+00:00",
+   "cat": "Weather"
   },
   {
    "title": "Video shows two horses briefly boarding public bus in Detroit",
@@ -517,13 +512,6 @@
    "source": "CBS News",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUXR0V2U3Q3RsaEg2aXlQTXYydEJmcUdqeEp0b3dxRTBQa3FfN0FpSThmOXNNdngzTlUtZ3hGdkJzclZ3U1dfc2psMlhTcDJLbEd1RjlYUkpzQkpyYW0zUzhsVHZmQ3VpaVA1UnJnaG9MaF9NZ1k2WmxNRWJyVkZ4bkhPTUN1ODM2VWx3X3I3S0FhT29ubklKc0NSVDJMZmZIUkZsOA?oc=5",
    "time": "2026-11-14T14:03:00+00:00",
-   "cat": "Local"
-  },
-  {
-   "title": "Crossing Guard Airlifted After Being Struck Near Somerset Academy in South Miami-Dade",
-   "source": "Hoodline",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNTQtMEdWTlB4RXBjdXBOUDNuZmdEdFZBZW1LRmtNbHhKdlRfbkFsaDdSNkxsdnpEQ09jWW1PYnFUczRJU18yWndIOEhBZzVHd1FJMkZGaGMya2tac0Zqd2pnRk5VQ3BEQlNDN0lYQUlNWm9ZRmtTUHVraVFvU1gzTTdnS1VOOU9Id0JYNmdOM3NINmEzTWFZUlR2TjIwWk82MGZraFBQVVFhVGR6N3VtamxJaUpUUQ?oc=5",
-   "time": "2026-11-14T13:07:14+00:00",
    "cat": "Local"
   },
   {
@@ -975,10 +963,24 @@
    "cat": "Culture"
   },
   {
+   "title": "Grand Theft Auto VI: Here is a list of official events in Miami",
+   "source": "WPLG Local 10",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWklwcm5nUlVmejdCNzEzd1I3NzBFVTdTQVlNRE9zd2FrX2h3OVJrTUpLWEZndEFSRGlHbU5yZ3MyVHRJQjFPZF9xWXlQeVhnLWFwZ1otNk8ySllsQ0VvbThjSXZhSmh0c1FyQkNJNUtWaC1kdVBxYzNjeTV1ZXhnOUhVTVpOY1pvYXVhNE1IdkZoVkZJaXowUlB3cjNmUXVQSTZpdVRfbjZYVTlYUTFlQjR3?oc=5",
+   "time": "2026-11-13T17:10:11+00:00",
+   "cat": "Culture"
+  },
+  {
    "title": "Miami-Dade’s school-zone cameras brought in $23.65M in paid fines in a year",
    "source": "The Miami Times",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQc1NQeW9JejBsaS1SZnhpUFFsZEIwUjQwUzN6WkpONUpsTnA1NjJHa1dCSW1rWnNxa01nbHJuM1FXc3RHLXpQTDVOS2E1U085Z3pQb3FZWWJ5YTlLeVlCWHJDclpFZjF6OU4zV295bkFqLTBaUFFxMHZQcjNvdE1zS1lWendzcVJTSXdqcTVQSXRDUWxVUDBYenlTUUUzcU5jajBvZTRRTkJGWGt0eFFvSUtaNXhPNFlrTFZub0pXaVR0SDFZd3kxaDN5MUxUZ3JpXzViUHNqV3lsR2JzSG5XTnpDejJzeGR4MlpqTVVvWlBpc3IwcF9yMW5B0gH6AUFVX3lxTFBzU1B5b0l6MGxpLVJmeGlQUWxkQjBSNDBTM3paSk41SmxOcDU2MkdrV0JJbWtac3FrTWdscm4zUVdzdEctelBMNU5LYTVTTzlnelBvcVlZYnlhOUt5WUJYckNyWkVmMXo5TjNXb3luQWotMFpQUXEwdlByM290TXNLWVZ6d3NxUlNJd2pxNVBJdENRbFVQMFh6eVNRRTNxTmNqMG9lNFFOQkZYa3R4UW9JS1o1eE80WWtMVm5vSldpVHRIMVl3eTFoM3kxTFRncmlfNWJQc2pXeWxHYnNIbldOekN6MnN4ZHgyWmpNVW9aUGlzcjBwX3IxbkE?oc=5",
    "time": "2026-11-13T17:06:47+00:00",
+   "cat": "Local"
+  },
+  {
+   "title": "Man reports home burglary near Miami Shores. Deputies find his mother dead — and arrest him: MDSO",
+   "source": "WPLG Local 10",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNEhlUzJscFVZX1VvWUF0TUQzU0NNc0h5WlpLbzJJYnlwTGNfU2ptSWRycm10QWhMNWp0T3JwZlFVeXJLYkExbG5ZLVRoM3VSeTZBR1NKZ1RZOFBRRURYeEYyZTNfMXltMVN5SEFyRThXb2JyN2lSQzVLQnUtRGdVZzVVNnBtQTh6RHRNWW9uOHNfZElvSk1xZkZYTmM3M094MDV0b3RtcXotSEViaDN1V2doMkNDLVZVWmVDcDhFcFN2QzFtbEdwckZGVkpsQXUzVUNfV1ZDNA?oc=5",
+   "time": "2026-11-13T16:37:33+00:00",
    "cat": "Local"
   },
   {
@@ -1087,11 +1089,11 @@
    "cat": "Business"
   },
   {
-   "title": "Today's forecast",
-   "source": "NBC 6 South Florida",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZXBoZHBiY3R4Sk1JQTRUR3NlQ2FYb0QyY3cySFItYjg3ZDBXWHk4cTdBX1ZwX2hndEhXU3dleHhUZzZhZFJBRGRmOHNwczhGblFUQ3ZBamZnbmw3T0hwZVhCUFR2RzdJc3NoeFN6VG1uWjFCcThqTFp1T0prc25rS0puUWQ0QnoxN0hjck4tbUlxWTItMzFpYzdyYTRiQdIBpgFBVV95cUxQOGZ5NlRXdjBrTkdUNzZPZzM4VjRmdVR1dVY4VVVNWWtwWFdLNmF3ZjFYNHAwdG9mRjB3YkZobG1PTDhqSDgyOFJ4ZkVpU2Z5cGczYWlLczZTckwzODh4RHZXc0RmTEczSWNJU0hIa21zcWN1RFZQOV9ZUlF5QVZoaWtLR005RV9ZRWZvN2tsOXFtY1Q5UFJkMU5DTVM3bG1GREtUMUJn?oc=5",
-   "time": "2026-11-13T12:05:00+00:00",
-   "cat": "Weather"
+   "title": "Joe Rose has three big concerns for Miami against Duke",
+   "source": "Audacy",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1Nqa2Ria0Vlc01mTzlVSlpNbkFIQ2w4Y2Q2eno4b3REaGN3MllzMjV1YWxqUXlsYjdpMWVfWFJpYXZrbVF3ZDloVmNILVFhamJKeEJKN2NUeDhmNzlQQjJZc24ySFdfbWtEdkVCUkJJcExoUzJKZFBTSV8xbUVXNXVhS0tDd1hBTkEwR01VdHNyeGtsMkRvTk9wR00?oc=5",
+   "time": "2026-11-13T13:11:55+00:00",
+   "cat": "Sports"
   },
   {
    "title": "NBC 6. . You’re watching the NBC6 South Florida News YouTube channel. The latest news and weather from the South Florida area.",
@@ -1112,13 +1114,6 @@
    "source": "Miami Valley Today",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUNNenhjQ2VYeF9PdjJsN01VVloxeUZhTlB4WEh3azNtbmw1NUQ4SnhwRGZSTjMwLVhPWmM0UjhZVHJLZEZTYlJta2pfLW5ROEl4N3psU0hvS09DY0pWSVVUQmtDenBPaXVkQzJQdFhZWHg2dGVkOUVwT2kwRDgzTXdvVW9lUQ?oc=5",
    "time": "2026-11-13T11:32:00+00:00",
-   "cat": "Business"
-  },
-  {
-   "title": "840 NE 130th St Apt 607, North Miami, FL 33161",
-   "source": "Realtor.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPclpCbDdkS05hZDEwelJ6VkdWcWVadGNnNlpVMElBTWM4b1dLUHhzazVYcnpCUHhkMDIwTFFOeXdWTU5UMFNseWNENUdNcU1neXhsWXdjSzgxd0phdW1zdEppOWtYeUhJdXQzcUoxOFp5TVdBVWN1Z0o0Yi1HMUpJVFNxT1c2SkFwemFVdW9ua1V4WlFBSVlNcXExU3lJZw?oc=5",
-   "time": "2026-11-13T07:21:57+00:00",
    "cat": "Business"
   }
  ]
