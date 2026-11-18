@@ -1,68 +1,273 @@
 {
- "updated": "2026-11-18T14:05:18.135745+00:00",
- "weather": {
-  "temp": 71,
-  "feels": 72,
-  "wind": 15,
-  "code": 3
- },
+ "updated": "2026-11-18T15:21:11.347857+00:00",
+ "weather": null,
  "brief": "",
  "items": [
   {
-   "title": "GTA VI Is Here: Miami Teams Become Vice City",
-   "source": "Sofascore",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45c2pieXlvNXF1bmhzd3N1OU9Cc2x0UWoxakZBYWZiMGUtb0U5cEg1elpYNzNIUTJfZno5M1BEejc5N3dlSHFDOGozSHA3S0d4TmNuSGFkdVNUU0tiZm1HUnlJVjRoRkwxNXgwYWxuZjJZWXg2MlFuaVBuanFZSjQ?oc=5",
-   "time": "2026-11-18T14:03:51+00:00",
+   "title": "Milena Brown Finds Her Creative Home in Miami",
+   "source": "Miami’s Community News",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWkptVjNEcXdMTGZCTWFLeWYtQjU0V2doMEtsc3o4WFZ6YWlxQS1rTEcxMkl0cm5WZkY5dXlzRzJ1UkgtbWduVFFsVTlLWS1yV21BRENTRHktNlZ1THd2ckRudjJrT2lUOGxkSUgtU2JBVjByX081TWxrT1VyUW9qQXh0U3NFSWhYbGNkMHpwWGxwTkR3Tzh4dm93WUY?oc=5",
+   "time": "2026-11-18T15:16:31+00:00",
    "cat": "Top"
   },
   {
-   "title": "Miami leans into its alter ego as GTA 6 finally launches after 13 years",
-   "source": "Yahoo News New Zealand",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ydi10QzJQZGVsZUo3NFlIb05ocVJDUFd1Ty00V25PakJqN0hzQmRhU0M4ckRXTU5NbGdwc0toZ2NSVVlxdkN5VUtLNDRsZ3Y3Ymo0eHF5V0ZKVUh6RVBzWU5ETzFyVngzbkFTSnpoQS0xSXRi?oc=5",
-   "time": "2026-11-18T13:55:13+00:00",
+   "title": "US pending home sales tumble to record low in October",
+   "source": "Miami Herald",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXVPQzA4QzdJLXI0TWlqT044QVIxVUFaQzJrZmRZOVpjTXhDTnVOV3VoOEVVdHRPcWJNa0JjWkpQRmUzdVFLSkZadWNUOGl6Ulk1Z3BxMmk0QkQ2ZExYX0h4Q0FmQy1IdV9zZGpsUnR3aVZvM3E0S0pBOFVsOHQ5alRR?oc=5",
+   "time": "2026-11-18T15:10:07+00:00",
+   "cat": "Business"
+  },
+  {
+   "title": "Mercedes-AMG GT 53 4-Door Coupe looks quick in Manufaktur Miami Silver Magno matte finish",
+   "source": "TopElectricSUV",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1JxZFNMZTUwT0hjWURKSVVueFV5R3BndmlLOHRtQURXMldXRDBLaG5HUGZjLUxuZW1nbERKQjNnZlpnYWZFcjRMcGRhT05BNFRqNWlXU0ZjUGNMUmE1YWlUTHVCRmhMTjhPbG5mSnc0TDlDaVlNelRCSW9FeFZkcGVUQWtlbXVLN2JuUFBqUkNiX2h1YUlyd3FoMDVLSmpfSzZMaVMyaFVvMVE?oc=5",
+   "time": "2026-11-18T15:10:04+00:00",
    "cat": "Top"
   },
   {
-   "title": "Stretch of Miami St. now designated as ‘Gloria Steinem Way’",
-   "source": "WTVG",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFZ3UjF1ZjVzeUhsU3QwMVlJR0tQaVZ6NEltQ0pfaXdPd0dadkRGQ1l0VTRyeUc0X29IbDk2SEFFQXZvUmlLNHFQSldPQ0NEeFlDYldvaFBfYUtfVU9ULVhhVlZpVU9fNm9jZVIxOVVfNlN6UURmNzhBNV9PQW5PcERnWlpGZGVpWEFIQdIBoAFBVV95cUxPaV9GYWxmQjNBQ1RCWGJma0x3ZDFpdHViRXU2TVcweW1HQWVld19DN19wUWFKUHRWTEdNVFNvaGd6WDU2aGhINW5PR04xd2ttam9pdDR2RXM0Nkk5MnhJc0VnRWVvMVNQTXdmRlFLS0k4UUR5SDdCcnh6RjZ6SDZ2ckxxd2lrSlZSTUNGNG94bWNWS29sYzR1X1ZHbmNpbTFp?oc=5",
-   "time": "2026-11-18T13:48:00+00:00",
+   "title": "Jaime May Be the Bucks Best Two Way Player in Reunion Game against Miami",
+   "source": "Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQXlBalRXdzVTU2FkcHNUU0c4WjQ4N2hHVFM2UjdwenBvSTF0bGdkZVFfWklad0NINUtnelF2Q3pMc215TzBSaFd6UV9LY2RVT2xnVEl5eE11Y1J3UUJ2MDdqNGIyc2ZoRTgzNkF6OVdqVGZEdVJJTmU1eE1LOERBcHBYTmVPZU8wU2pBZ2NMeG9oYjM0Zk9SbWxRX2NQaFRhb1c0YVVR?oc=5",
+   "time": "2026-11-18T15:09:34+00:00",
    "cat": "Top"
   },
   {
-   "title": "Krome Avenue Motorcyclist Dies in Miami-Dade Crash",
-   "source": "Hoodline",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMTlVaDlVYTFJQVBSWW9CR24wdFBiMHRMczB4SXpxSVptZl9ZVjFkS3pWTDNjMEJCc3hXLTZVUURYbFZsV3FGZmNRdWFMUGRUT1pHVzh5aDBnVHF5LXo1dzRxUHVvZlNpWkdycS1LN2ZFeFV6Zjd1QTVaNmg3TGk5bUVjem83a05WdEltLTdiQUM5UGt5SDViOVphbE1LX2xWbkZUUQ?oc=5",
-   "time": "2026-11-18T13:40:22+00:00",
+   "title": "‘Pretty diverse myself,’ Giannis adjusting to cosmopolitan life in Miami with Heat",
+   "source": "Sun Sentinel",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVC1wQ1RmSFBBVU9vMjJuMWxHX2RvQ3hBWG04YXFPOWVCM2REZ1l1bDhOaDA0VGxQWjZ1ZkVyVHRBOHJ4RzdXVWVscUg2OUplWXRJbTdUUG1OTm9MWkpHVVRsZUZQaWxWcTVuVlpYVzZNdnFGcTVKV3BVV3ZXNzQwNGRtSkpmTVBFaWJiMDh5aXQ2VkRTM1dKRGZSaEFUaDVSSlFLVG9aWTU3bmdhWko0b01hTERSQVBYbkY5Tw?oc=5",
+   "time": "2026-11-18T15:08:29+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Miami-Dade, Palm Beach County schools remain open as flooding worries grow",
+   "source": "AOL.com",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWNE1Ibl90VHM1U2dBbld0UF9UWHNiZTdEdmpWQ296NXZWOUNIeE41UUhCU0hEYUZ4ZUpubXRqN1VIWHdjUGl5VndZXzBDVVh1MUtZNzZIQW5aZmtKZTRZb0kxYTJSQU4zMzJIcnZtSmF1UncyZ0oxVnpBRWE?oc=5",
+   "time": "2026-11-18T15:03:26+00:00",
    "cat": "Local"
   },
   {
-   "title": "Miami football: 5 takeaways from the RedHawks’ 20-3 victory over Kent State",
-   "source": "Journal-News.com",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY29XdVNrM1BmNVpoTDRsOEgwZ1J0Y1NENGVNWEk4NHQ5VVpsVXRWVU02VHZvLVNjWUhmbHdQUGlJNXBLbEozUTAtVlliaTJjZl90SnFCNF9kUzdUaGJvRTlQaVBlVDB4OTE1T2RyTDg4M0hWenZLX3hjdzlRRmE1SGVQWkVOaTdOU3lKZTZ2Q1dlSWF5d2IxekV6THA4Vkk2aVVLakhXQ0xXbE5Gd0ViaExSZTBwVDV2YmhzNzJySGVMMFVxZEdyWVpURVgxSmtFLVB1M2xGTU9LcmxhQzlzRGt1UTU3NEczR1lwSTRmT0I?oc=5",
-   "time": "2026-11-18T13:30:00+00:00",
+   "title": "Miami Inspired GTA's Vice City, but It Missed America's Top Five Most Sinful Cities",
+   "source": "Latin Times",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGN6aVIxdXpxZFo0QWVYSDJCV1ZmcjN3c1ZtRHVwN2lYVFJzb29Ic1R0RU1QSDZ5bXphVnRONXhJWjhWTFVySkxEVGk5M29BT3lyN2htRFdNOW1SQmxjaGV1TW9XaHBhMExSYXhPMTlsVGZ1Rzg4N1lIQ1lYemVpSA?oc=5",
+   "time": "2026-11-18T15:02:11+00:00",
    "cat": "Top"
   },
   {
-   "title": "The Hits Keep On Coming: Dolphins’ Jordan Phillips Suffers Season-Ending Injury",
-   "source": "The Phinsider",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRlJjcTUyTEl6R3piaVFlTnVmSUllV1Eyb2wxRmdmRnd6RFpQTS1QMld3R3NFNUJyNVNzY1dBWmVWOVZLQkFYMG1zNlA0cUtVUzhQeHNWSG83SWFDSW80c3U2dm5UdU9Bc2NZcjY3U0tvT0pRUU5XRVhoTGFlX3JNaDlRTmNVbmhMVm1pdjdnMDVCT3NkZG9UQ3VtbjB0bVJtbjAzbi1FNFI1X0hmSXhWMnRvck4zVC1PTVpmS3N5SHZzZHNteHpjSDVsU3FOc3dMcThV?oc=5",
-   "time": "2026-11-18T13:30:00+00:00",
+   "title": "Miami Beach Unwraps Holiday Experiences with Festive Celebrations, Oceanfront Escapes and Special Hotel Savings",
+   "source": "Miami’s Community News",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPV0xBRFNoakNaMkNCMUNkNE1GMXVfVGptWl9xbWx2MFRRRjJmRjl6Yk9iU3RQLTlhQ18xT2VGZTVzRy1oYVNtWlc3cjJmbVJEbXBPUmR6ZDdiWVpjX05FR1NLd2FPNHJpekJ4OFN4Wmt1R3BRUlc3QmFHM3JpRmlCUlJUVjBsWkQyenhVMFF1N3kzZ2xSR0NPQkZZLVdoOHRNZGJEQTRmam1HQlZEWlBxTWZ0UldWazhkejBOcHFtZ0E1dllKSlBNTzYweW9PS0tmMWJGLXJOXzdubU5ONEwtUklZQ1hpM0NoQXFHWGtuWHFTZw?oc=5",
+   "time": "2026-11-18T15:00:39+00:00",
    "cat": "Top"
   },
   {
-   "title": "Divers recover mangled SUV from canal near Miami-Opa locka Executive Airport",
-   "source": "WPLG Local 10",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYTlQRV9XdTJvaTNkRFZVSVdjMUJaZThEdG01Nkh6ZVY4cjlpTkZPaVIwVTZXQkxidTBuWFhwRW52Q0dWUXl5U0VZb1NQbkRaaTNTQ2NCc0VUa3NZZ0NKOFVQSllGSnh2MFhQQkxNQnZ4X3dNWFFqUzg0eXd3bU9ZUjIyQUhibEtzR0xIQTBwWk9fenV6Zkh0dnU0SGI3R3ZYQ0JmZzR1bWROQ2hqdEN6dXZRdjFnVUZNRDlQemQ2Ry0?oc=5",
-   "time": "2026-11-18T13:23:32+00:00",
+   "title": "Miami’s path to the College Football Playoff",
+   "source": "The Miami Hurricane",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnpqelhQU09LbTFiV1pjOGVvd0I5QWYyZlB3aGZzSzRham1CdXdoT0xfbnplNDlFQ0ZCeENybUxTdG9IbGtKTXlVSExtSHN5a2Z6T1p1aU1ZU3RuSnV3ZWxuTUdnd1ZlWWNVeWx2WmpvY0xweXBkMlBuR2ZQV0U2TDA2NFdmeGNvWUFPcmtn?oc=5",
+   "time": "2026-11-18T15:00:00+00:00",
    "cat": "Top"
   },
   {
-   "title": "Driver crashes SUV into canal near Miami-Opa locka Executive Airport",
-   "source": "WPLG Local 10",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb1hDUERJNE12WlQ4Rzk0WDE0bHlQdmliU1pMR0tBaFR5aF9mVGJqUnFaeEF5eG05ZXgtRXgtRE1xT2dUa19Fb3RlbnJlX1hnNnZhWGVpSk5KM0I2azNmY0dzUURhcHdid2k5S1hDdDd5VXhGZXNOdlFjWWdoSFRxbGdWQXJsV19XUDJUREd6YWRHOFJzTUNEU3lNZDhFQlNMdlF1UTAzQkRxTGY2aXM0VV9yc1NFaHZPa2FicWJn?oc=5",
-   "time": "2026-11-18T13:22:53+00:00",
+   "title": "Mensah’s case for college football’s top honor",
+   "source": "The Miami Hurricane",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTS1GUkFsR0cyUGlZbVBHa1dkSnEzbzV2Wlo2NkFWbmVvVXFPWVpOaXJDaTd0UHdNdU4zZHBoVGdKY2Z2ZG1sMlhrU3RKR2hNRFk1XzVLYndidnJOdXRKRnZOQjFlbzNkTjc4TEdaZGdrSzI0SVQ2YTFlcVNZZWhuMmhTVlo5d0tOb1EyM09fOA?oc=5",
+   "time": "2026-11-18T15:00:00+00:00",
    "cat": "Top"
+  },
+  {
+   "title": "The 24-Team Playoff hurts college football",
+   "source": "The Miami Hurricane",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM3RhVHp4bVJxUlJJME03WEtlQVU5MlB2YUM2ZzdDZ05velY3Ujl2emwybml3Rm4xTlQzZW10UXRLOW1yR0VFakQ2dXEtM0EtY0Q5eXFiSUxqMUFCM3ZiV2NWcW10UzlCaFZjRXBHY1hnUkxoMVRTZ0tLaTNzSVV3ckhrbHMwX3Nucmo5LQ?oc=5",
+   "time": "2026-11-18T15:00:00+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Miami fintech Majority reunites with Rebtel to reach millions worldwide",
+   "source": "Refresh Miami",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOURxS3V0MGtaNHhhMkZCR3pwYk5jT3NXRnEybGYzN0lZZ1p3Y0xWcllrU2J6VG9wZ2FDS0RsUUYxQzhrVHRnRnVhSnhEUW9XaDlHeEVDZlZjNFRpTzJOOHg1S1lBaF9YV20wbzd6N0dnVld2Z09uQjE4cXQ4OWxDZkJmZWc2bWZMYUJMS2N0a3NmQzRjUTJiUkFyYjZlbXVDMV9DcA?oc=5",
+   "time": "2026-11-18T15:00:00+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Miami Dolphins Serve Thanksgiving Meals to 200 South Florida Residents",
+   "source": "NewsRadio WFLA",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOFhEVHNBOTJ2VnNjWFVwRTJjYS1yczAtc1czMlFNZ3lhV0VqMlZUcHZJRHZ0RmFSOHlaWklsVWdpWFlybXRFRG9kVVhjTXdERkZTd2U0SS1sQ3BIZy1UTkd3T2U4QUxuNE5WdXFPWnBKOVhPeHJmaFVYT3F5RzdxZGgzVXZmaXhvekc2MGpaOGIyUUpfcnBobWxQd2FSRlE3d0phVU82X2NZYWJVQllzak5LOGxvRVgxSVpUd05OcFNvLXpiYjludHZpVzBPSDNpMkFyMXNTZw?oc=5",
+   "time": "2026-11-18T15:00:00+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "No B.S.: Injuries have Dolphins barreling toward top 3 NFL draft pick",
+   "source": "The Palm Beach Post",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1o1MmxXOGpsN1MxMGJCclV0c3BhOE1JOG10RzJCUEowZUVGMHhoLWVKc1hJdzJoV0N0c2xnS3VLZXVFMFRxMmZIMEwxNnlUODgyMm5WZ3g2ajE0aS16Yjh3VjE2aktqY0FWazQ4OVhFWlRKU0VMOEJ5VXBUSXpMaHNwWmNWbFI4X2tDdFB3QlhFSlQzQUMxUFYwOEY2TVFjUUFOR3U1OXc0dnJPVVVreFhqWk02WmM?oc=5",
+   "time": "2026-11-18T14:53:00+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Ground stop issued at Miami airport. What it means for your flight",
+   "source": "Miami Herald",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlJQUWhxTzRIcTUyazVYMU42ZlFhaVhIamxqa1EwVzlLMG1nQXJHZWcwSTBQM2hkWXJvX1MyUjlJMURCLU1GVEV2WjA5V3VBbC1jN1BIXzBoY1dLTm9PRXp2R2JzVDBKQUNRM19jMFJMcGFFZjZjMURRZHBHODQ0NDZwcE1HU2px0gGIAUFVX3lxTFBRR2oyTmxvTUNqYTFDUU81RmNvU1N6MHFIRVZsUlcxUi0wLTFkRzhfZThLOU1zUHlQdzRTMDBpYXJVLVRMOHlpbnVDeE44LUhxU1pkYXRLeWJQZUdQUWF6MVh6dmt5OTFYcU5TR1J3R1IzSVVFUWJDUktITW45YUxNeFFPRU5OaHk?oc=5",
+   "time": "2026-11-18T14:49:00+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "No. 7 Miami eyes ACC title game as it hosts Virginia Tech",
+   "source": "The Lufkin Daily News",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONnU5OUNrZmp6VFlub1Z3NUk0cFZ1WmNpc0RlTGR4dDdUbVphRzY1VmcybGpDUkVmZXNGSE5zYzFfVDU1Ql9idm94amM3YTVQbUJIcktoV0FPX1gxdklZdy1zaTJXaTk4RDBwTTdjeFE4blJMbk1TYl9GMGpJY0lCeWNGOGNqOHpDZEJaLVRCbFhwMl80UmxsQVVMSHlfUVZuY0NTS05DY1lnVWhSTDdNVkNDNlg5d2ZMc0hLN0MxUVYydTZYRE0wSEFuTzRUbzlKb3FKaWRNYlh5QTNvZ3dkOHB3ZUlMYzdZa3c?oc=5",
+   "time": "2026-11-18T14:48:07+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Miami can clinch ACC title game berth against Virginia Tech",
+   "source": "CBS Sports",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDlqMjBtTUwwUXg0XzlYU1RVMnkySC1hUElNUWJqdkxVRzRVMnUxUEFPUEl6MnlMZTQxa1VrQ2Z4eVNvQ19yUjFTYWVZVjNXQnBpSmdmaGlMUHVwWjNHdkprdzBJckRoNU5DQnJHN3ZtOEtxNWRQUTY4Qi14Sm1ualNnSDduYU1pNGlSR0R2WG5vVzhzaXdrSlJ4TjNnMW5kVUZDZGRNQTNqM21N?oc=5",
+   "time": "2026-11-18T14:48:00+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Dramatic video shows flooding inside Memorial Regional Hospital in Hollywood",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVJsOEk4XzViVVR2cG9CVElMSlRCbU1rMnlPNnlzRTQ1c0ktbFluckxjQ2RMaFFtTURoTU5kby1pVVAybjhodXZmNk1iMjRodmtCd2VPd3ZqM2MyUWN4TUNkMDNPU0lwa3ZObXUwUERDd1ZhZDBsb0VmV1MzWUlwV2ZlR19uem9hZ2tPVmhXdkF4bXZ3N2Q5aXZfenl3LXBWWkREOXVxajlxZU5LQWdVM3pENA?oc=5",
+   "time": "2026-11-18T14:45:00+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "The Vice City Heat: Miami's NBA team goes all in on 'Grand Theft Auto VI' collaboration",
+   "source": "Bozeman Daily Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeW5oaWU1ZGdEQWd5VDNTaG9fUXF6b2NqUEtCMWd5cnY1bFc5eGJvNUJUdXg3enJDVU1YOWxKaDFuREZ2bEM4SDd3aHlrV3BPQ3ExaGVHbEI0ZHdqd2lOV3lRVk5MbFRveW1WX2FvdEdXa1FPM01YOGE4MElrQ1gzOG5wcm1KTEc4LXI4cTJ3YXBkQWFTX0VtWHl2d1h1NTNqelVlT3cwYXVvRXJjMlFKN2lvQkEzNUdUdUlIUlpYTDA5b3h0RVpSMEQ4OEpMU0d3NzBQTmtLN05WNVVoS3pxSkFlNW9HWmJ4MVlpdlYxU3dIY3R0U2VnSW9qblRBZw?oc=5",
+   "time": "2026-11-18T14:43:06+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Miami theater company Maroon Isle Productions puts Caribbean stories center stage",
+   "source": "The Miami Times",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZWdCUkpiYmFIMVBYTWFGNXZCVXIzOUNKMTJOSFROVE9DN3JZUHppRzl5TVZQMHNKMlNiX1p5QTluVWduZ2FQMjRKdEFmdUpBVUMzcHBIa0VBMEdaSWYtU2lFRTliVnZDTGRrY1dLUFUxU2hheHlMZ2hzenUyLWpocHJOSllOU1ZsR3NQX253YjdadlpoZlZMSC1LamF2cU0tYUV4UWNMRTdnbElTMkstSjV6ZlptUE9rTXR4Y29HOFB0LXZjU0ljcjlLNEdiRURNNmdfaE9saGhlWkxSX0ZUOVo4bnYwR0E1TGN2dTUzSUQzcW9YQ2NNLXFUVHpLM2dBREVhVmVR0gGLAkFVX3lxTE16NWxJLUNkZlZMdTJ0X2p6RnRIcmh1aHNCVWJxVGlEUUJYWmduaGpnckhMTlhRdFFLT2Y0bGhIV1JGWWhZNWdiTTU4cGxNeXBQRUtwal9sYWtpZ0htUVE0U0NYX2o3Nk56NXliUFdFbXZwVG4zdDJydVFFX3VQV1VJRzhYYVlyTVlJSG5wWjdXbmM2NTdMREpSNFFQUzhNNGEzeTRyZnBZR3I5ZG9ac2ExakVNYmNRSHByQUZnM01kNFJjOEtMU1VGSGVDX0ViWFg1b2JYVW1Hd1lyZGZIRGNYUmlfbHpSd21tbTVyeUVNZXh0TGVUSXpuVnlNWGNkbW5XOXBfbE1zTk5Xcw?oc=5",
+   "time": "2026-11-18T14:42:57+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Miami-Dade, American Airlines Reach Hangar Deal at MIA",
+   "source": "Hoodline",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQemdFSHMxZzRTMldCeEhUOEROR09qdXlDWEZMUVJGN0Q1S3p2WF9fTHRDbTlzZlFaNUZ1b0RzVFVtNnV3VWg0a3pBeVQ3bkZUa0JmTEM4YTFJcW5vRjBBdU9pXzl0VDBhNnlSajZibHJpd0hiMWUtZkVhVnZrSUZiak5aV251ZHhBVFhDZmtROXZGXzJDVkU4dFllWXFTalV3blpyQjNUVG8?oc=5",
+   "time": "2026-11-18T14:40:31+00:00",
+   "cat": "Local"
+  },
+  {
+   "title": "Are the Heat suddenly a threat in the East? How Giannis Antetokounmpo is making an impact in Miami",
+   "source": "Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWjYyVjJhNkpxb0lFdmdyQ0RWSDZVUFhnV0xKR3VtZ2JoQVBhajdaVVMxaU1ic0FscVBBN3ZZQjVscHo0QXR5TGtuU3JvVjhfZ0xDUFJPM3ZKcmNaSnJjUG43X0pCbkozVVZpZnNQdE5pMDA3ejFpeFg0QUE5cjZRdkFFSnd5YklSRXQxOElmQ3gxME9FaDFnbGVfMVp0c0VIeFNGTW44cFR1MURCVkp3bjFVTy1kM3d1bUR6VXpVakx0ZHFRMWRCY0dJMElkR2ZEY3dObmk5YzQwZllDck9HNGx0RQ?oc=5",
+   "time": "2026-11-18T14:39:39+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Miami-Dade commits $2.2 million to keep Orange Bowl in South Florida",
+   "source": "The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZURMdFVRa0ZPZFgxQTNtakpHUTJ1aEJ3VU1HbFhnRWFQNVNNNzVNTU5yYW5PdlZoVV8tMVR0bEJVMjNFM3V5SWVZakpFZTRIUUc5N05jS3RuSEtudE1vb0paZFlRaUppR0lPS3o3Mlp1ekFsd2I2Z2lNTFgzdTBENGJJRndURUlQSnNfQjZ5aGJ3bDE3MV8xNHJMdUZhWWJtUjE0?oc=5",
+   "time": "2026-11-18T14:34:00+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Miami Author and Apollo Bank Founder Eddy Arriola Brings It’s All About Relationships to The Miami Book Hub",
+   "source": "Miami’s Community News",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUGlrbjBicXozSFdtbm13WHVTdHF5dGZuWU1PaU9nMDlCU2pwTW14OHdsSzRwUkNFSTItem55QXpVMGc1eTFVblp1WmFudHZHUDdjaVdleHFMTGRLMzFBanFPTHlNY05WTTZHc0UxamdQdTZOWFVUalFGbDlpRVVXeUZ0bkY5a3o5X3NLSnZNUXdiRm1LcDFZYUN0cm5kQnZrZHR6YjBjTHRZZC1iQUVFQS13N1dtYmROS0QwZlY5NndGSll6anlkb2syaUJyaXV4RUN2R0VhZjYyNDliRnFXV0hWbXowQ09W?oc=5",
+   "time": "2026-11-18T14:33:08+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Week 12 ACC Football Slate Features Championship-Clinching Scenarios, GameDay in Miami",
+   "source": "Atlantic Coast Conference",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0RHb1RsdnVrUlpFSFVLa0xJRUVWU21jRlhqVUp5OHBPYXdkQlNWYTFlLVdTcnVIQllMdDZVR3RiSU1vTXdBNXdDUFl1Y0YyUGhDRzVpR21WZVlqZFBmU1pPdFB0YThJMzJxQ1R1Z0pEOElZUWJZMWtTQUY3SmVhNnJmVkVfbTh3bGxPbC1hTGNEeFBvR3F0eDI1TXNaTTk0a3R3TVVtUjRkREpFa2RDQ1ljX1lOOTV0VU93RVZTNk5aMm8?oc=5",
+   "time": "2026-11-18T14:31:49+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Hurricanes rout Rider 95-48 for fourth victory in a row",
+   "source": "Miami Herald",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYWhfN0d2UG1FZFVRcUNLZHdWMUJWVHYwWU1EMm91MmdBdnhnWV90amwtNjZGbjJ3RXFJNklFNGRiUHg4SVlEZTRoUHhPbVZ6NzIwc1gtSm14Z3ptZ29CMnZROUdyNzk4RlJ6dnNMZ2tTdlQtR2VleXpLTkVDR1haUElPRU1OVzhha2hEU1Q5eC01Z9IBkgFBVV95cUxQLWdQQzUyMUZVOE9IUEx2SFlYR3QxVzh0WmNmNWhSOFV5WG0yV2ZsM1NrU2d4YTNjSFd4MDRfU3FxcWNhX1gyR2tRRTVja2ZYeGZrUXI1NmdYZ21NTnNVV2J4dUJDZ29ILTR2eUV1cnliNTVQc2NuR1N3ZDRoZkZrRkliSG85SXJzTkRzRlk5X3EtZw?oc=5",
+   "time": "2026-11-18T14:30:12+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "No. 17 Miami Quotes That Matter From Jai Lucas After Blowout Victory Over Rider",
+   "source": "Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObC1wS25iMkFNVUJOdmdIaHhISkNqSmppcUNlU2lvYnhGdFZXdlVtUUZIc1RLR1hrS0hua3ZlSFVMVjFLRWUzdUllMi04aHFHTVdnX2M0eWhyc182Q29FaVNVUVMzSmxTUkhtOVA1MENOazVlNXpNaUJYOW9MenZGcTluWW5nOE9ESTFuZVJzSVdlSHZvOWdlNW5EUkhGTFFnRlB3N3hGajdRQ0dNallrZXRfNE5uVXRhQ1lWZw?oc=5",
+   "time": "2026-11-18T14:30:00+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "NYSE-listed company buys Miami-Dade retail center for $26M",
+   "source": "The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEdSbWxPMUlWU0VnMllwTHB1cVlYbl8tZ1JNWEpmaTN0Q3VyRWxmWlFxZHhERUhrdGsycE14N29yTktiakFKbW5icmI4eEdKYjFNeFpZQ1ZMZ2dQdWZKODRxUm1maEFiVUwyLVR2ZHlpTEVUZDNGbFZ4eTdHU1g2QW80eVRieU1GMEs0NzhRSHllT3hkZHY2Uk1UQUoySUU?oc=5",
+   "time": "2026-11-18T14:29:00+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Miami Hurricanes CFP Bye Path Is Clear as Mud",
+   "source": "On3",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUlQyZnNjeF85bV9OZkxpTWlzLTRjT0RrUWN5RUg1clZNZmZSS3FwUExBaVZONEJGdUtjaUpWNDJPS2xNcnlrbkd5SXFKWGxJYVExaHVQdlp6NU9iU25ZR182Z0ZDaGFSSDMtaXRGMUNoa21kdnkzZzh6SEdBNnV3TEUzdEJLcWN5UnJZSEl2YUplNFBuX01BNw?oc=5",
+   "time": "2026-11-18T14:25:03+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Flip Watch? Fresno State LB commit Grant Moser fired up about new Miami offer",
+   "source": "On3",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSlpDU1NqTU95RmxZMzdiSHgtZEhKUHNXaGpZc2h5bmJEWjlJTTlsWDBEcHVzUG5OdkREWjdJck1NRXJoN3MwTVkydUtudFJSUUNDeDJ5ZWo2QlN0QjhxMXI5bW4yLUFxMlBiM0dhNWZwN0FsaDVoSmlLQTBBNjFuVGg5eXBYZm42ZmhKOGhlbFpVQXpmc0FrT0JkYlgzcDhVdDhOb2laMWZ6cUFKb0ROc1g5bDhURGNyUy1MbTdpZUJRejQ?oc=5",
+   "time": "2026-11-18T14:24:31+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Miami-Dade cashes in on GTA 6's Vice City takeover with millions of dollars",
+   "source": "https://latination.com/",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92Vmc2dVgxS3FydzZwS3hrdThhMXdSM2pMcDFFR3dfbldGXzVaZktTWGpBeDIteUJGcW4tanhiYnpGTFF6NlZlMklhNVVUc1JGR05qTzRyUlpleWZjVmxUTkZ2TXMyU3J3bC1mRkppcS1wenNqU2dFZA?oc=5",
+   "time": "2026-11-18T14:17:21+00:00",
+   "cat": "Local"
+  },
+  {
+   "title": "Point Break International Realty Launches Latin America Desk for Buyers Diversifying Their Wealth Through Miami Real Estate",
+   "source": "USA Today",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVXVqU0Rkc19ESzVtM2VDa0J4Tm9sdUJCX2tFZlpFUDFfWVRIMjNCRTVTLVZQaFJyOG1Yblhia1JqNmppcURkN0tLb2tNTzUydjRfTWpiUjczYWdkYjBFTldQR3dzcXAyVDdNZnJiLUVKRTNFTUxmU3FDSHZsTmxvbHZ6ZlE3Wk00cVpRSEhOYy1jdVcyUV9lUG9ERWFZNTI3WmJkSmRiSHRXczd5cHZIV1ZoeWNja0pXV3A3NGNRNlQ1aVFqQ2JSRTdEelJ6OTdqNjFDdjhmNUJnRExsczFZV2Z6em4zeGdWTDY2R0NkdmJMNi11WkZ3X1ItejZtY1NvcW5DSVNB?oc=5",
+   "time": "2026-11-18T14:14:34+00:00",
+   "cat": "Business"
+  },
+  {
+   "title": "VO Health Brings Next-Gen Fitness Blood Testing to XENOM Miami",
+   "source": "Fitt Insider",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQanZmLWlxTm94WE9hX1dKc0M4OXZ1RE1rbUtnejkyZ213QXVIQ3pFNWNmbEgyQl9Qb3oyRVVtYXo1Qm5pQTM4ME1PM01FNEN0OUdPZnhkc3hsbUE2ZFpiLUtkWncxMUtSQjNocDdCRWNHcG91RThFc2I3NngtMGFVYTJNLVhfZ3B6QU1nMGhwcG1zUW5KSElTZENxM0xpQUtxdzlv?oc=5",
+   "time": "2026-11-18T14:10:15+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "NEXT Weather Alert continues due to threat of heavy rain, flooding across South Florida",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTGthMHROWFFKVnpyUHVFanZLMEJ5ZXBvZXExMXZ3dEstdDlkV2J0cmo2VnczVXRZV1pILUszTk9RQ1piYnVVMFFVcG54alZSblphT1hYTjBKaTVlX2lWUDNUSWt1c3ZhSnNVOThwWmR3SXlMM3ZQaU5vSzdSb2lZZ05JVjRRWEhFQ0JsMU9SX0tyUExJNTZKU25MamJiUHFiaGNuNmt1RkRDb3lkRmtZLXFDeDFqWk5QTXNsMWlmcFkxQQ?oc=5",
+   "time": "2026-11-18T14:09:00+00:00",
+   "cat": "Weather"
+  },
+  {
+   "title": "Why Pete Prisco loves the direction of the Dolphins",
+   "source": "Audacy",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0RaN3VRYzU3M2R6VXF6QUZfWWZlZi1WSUZVVF9KdG1qM0tJZnJfYnJHdEhwMGczdkJNQ3E5V1dWc0hma0s0NDdiazNXV3RxMEY5M29FSWtoS1JuMmFjMTlpbllEcFg1OUtlcEhYVmZFYXUtNGw4VTM1c1hOc2RrOU9Hc1h1QU13SDJPeVVOTUhpYk5OdThCVA?oc=5",
+   "time": "2026-11-18T14:06:19+00:00",
+   "cat": "Sports"
+  },
+  {
+   "title": "CBP intercepts boat carrying 11 migrants off Miami as Chinese maritime smuggling route expands",
+   "source": "Latin Times",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa1Q0NUc5OGVFTTh5LXI4bUdYNWN2VXNHMElTenFmVElCbTdCYzk0S3lwUFRjTlZRbWFiX3NsNTdmMi0zc01QRTYzcmFTd1BiVG12WFVZMEpqM3BNS1NIWUNwdXhmaHdna3R1M1ZCeVRray1aOXFrUHZzcHFuSC0weElBSWl0UzFVVVRNZm9reWVBZw?oc=5",
+   "time": "2026-11-18T14:05:03+00:00",
+   "cat": "Top"
+  },
+  {
+   "title": "Revealed: Face behind Floridian Development news site is 19-year-old student",
+   "source": "The Real Deal",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ21QRmVwLWpiNDFHaHY4OW9hZmhqTTV6Q0g5VEN5VzNJYmN5UGpGeWNtSUNIVFlrUWxCaGtERENjRVhFWUdFZ1VEUWdsSVVvNlVybFE4RnBFRVF3TmdSNnEyMVV4RDE4MXNHYmlndUlSUHVJcnAtazBvWkJNa2ZHWFJ4X2ZFQmswaTRaRWdJRlVQcEpWMHNqMWRHU3QzUQ?oc=5",
+   "time": "2026-11-18T14:00:00+00:00",
+   "cat": "Business"
+  },
+  {
+   "title": "Broward County Public Schools closes schools and offices due to flooding",
+   "source": "Secret Miami",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVG9Wc3I2blhOc2FFdlNXZjNhOG03VnNDVWJsb1NiOV9qT3dZZEdMbnRVelZMQlhlVVFoc0c0NE5TWmU0NWlmUGM1b0g4cFRITkphM2dWdmdVSU15V0dxYkVNeU5RRF9DOTZDYk9rX01VaDVrbUd1MUttMjdqM001Rg?oc=5",
+   "time": "2026-11-18T13:59:06+00:00",
+   "cat": "Local"
   },
   {
    "title": "Real Recognized Among North America's Fastest-Growing Companies for Third Consecutive Year",
@@ -72,38 +277,10 @@
    "cat": "Business"
   },
   {
-   "title": "Why Miami as the Seventh Seed is the Best Route In the College Football Playoff",
-   "source": "Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXlQbW4yQ3U4d0FvekJkb05fVWlESVNmTTF0RndudmRKSjAtejdFdllmOXpQNXZRblBaOFk0NE96a000eGVfWWEybjVXUWIwczNYOWVzSENqS0pha2d1c3dTTTVwUmgtNDNoY3ViaWpBRmFHX1lEVlpiQzNKNzZua2J6ektFUUMxNkcxREV2VlM5eTZ3RS1lb1dJS1dkbjd0Q1dJN1R4dWhPeGhZX01EVXFhaDFJNmR2YVRBYzZR?oc=5",
-   "time": "2026-11-18T13:13:32+00:00",
-   "cat": "Top"
-  },
-  {
    "title": "Miami sets up Grand Theft Auto VI display ahead of release",
    "source": "KVUE",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWxhTDVnOWhkb2F0MDZRRzRvUnNqNzJXU1hNUTdkNkNEX0pEV0JKaUMzemhvTFNVTElvNFV1QVlBY2VsMmZGaFNHWmkyWUdVQ3ZXbTB0OW1LeGM0VTY1THh0UzFJYXY2SEZEMGMyQUhHN19lRldyU3RXVzFEcFNpcnljOEFMUHRhVV93VE5fNlR2OUFQcjZodFo5YWlJQlkzSmk1MzJUOXVMWEx0YWoyWUhoa2hTUjBEQlZwRl9RSWYwT1ZHWDhrdUdn?oc=5",
    "time": "2026-11-18T13:09:53+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Why successful clients still seek expert real estate guidance",
-   "source": "The Business Journals",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGZXaWJJQUs0WmYxOHZvYTRreDljMF8zSzAzM0V4c2Q5MUF3MkRkcU5HaUNFN2wwSEdsQzhMa2JrOTdxWUVjdVlkc0dhakE5V2plc2xwbHNQTmZScXJSUzhXU3ljUVBXejFfTmdBdnNhaER3X1FBSWwwUzlCOFNjSDBFNzByUzNOaXVUbjh6MExiNmlJUFdUNVdjc3pHR3Z1bDZLSk9R?oc=5",
-   "time": "2026-11-18T13:08:00+00:00",
-   "cat": "Business"
-  },
-  {
-   "title": "Coast Guard offloads over $18M worth of cocaine at Miami Beach station; 3 detained",
-   "source": "WSVN",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByOFg1Q1J6R3BWTVdSaFdZbHZfOEYxaXl2VzBUVDBKTm1ZNjU0MThuVldyT2tISVBSYi16TnJhMTdQNnpjNWxQc3VvcVc1TS1FTUpiQ1dHREd5R05ieDJ1QjZTLWFhMVFHT09z?oc=5",
-   "time": "2026-11-18T13:04:44+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Experience the Pantone Color of the Year 2027",
-   "source": "Dezeen",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEQxWXFzNk1MU3NKTjVmeHktajhCdGdISktzWHNXOUU5X3ppN1dwdW45SFVvQUJJVGc4UWd0TVhORVJnUEhzWEo0c0x1MUpwbWhnU0ZfMU1QcjlkcUNqaFBjbk1ndncyZ3V4dFVCZ0t1aGJBbDN6d2VSN0p1ZnFxR09tc01CRzQ?oc=5",
-   "time": "2026-11-18T13:04:15+00:00",
    "cat": "Culture"
   },
   {
@@ -112,13 +289,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sbDNoR1BSUFpXVnN4UkMwTVBYYnRUR1FxOVM2STNySFhLdUx0VVRBT0ZQUnF0X0NNTXluLWlHc2ZQV0luTE9McWxxa0JVbGFnclliMkMzcUQ?oc=5",
    "time": "2026-11-18T13:02:40+00:00",
    "cat": "Weather"
-  },
-  {
-   "title": "ESPN predicts Alabama football odds of reaching CFP entering Week 12",
-   "source": "Miami Herald",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GelBpc0xNcVd3d1RCNzlIOHNVb3I0aGdjOVU5aks0Sm9vRld5cE5jeGpHd3dFVTJVQ0dnd09sR3ZualZJelowVFNrRjR2QWxCMVlBcGViNk5rek4yZTZGczNrVk9ucUk?oc=5",
-   "time": "2026-11-18T13:02:00+00:00",
-   "cat": "Top"
   },
   {
    "title": "NEXT Weather Alert remains across South Florida due to risk of significant flooding Wednesday",
@@ -132,28 +302,7 @@
    "source": "NBC 6 South Florida",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1lrdUV2Z2xNWElIWFNnQk90eE9wVl93djZlVDdqR2xCWTZmckNFQnNTVVY2RFhmdW5wbXRKQUdxbWJTOGdoS2xrcjhSd3ZNNmtfbEpaNTBxZ0JEdzVhOTVQTEtsWFFtX1RlVTRvcHhBa0hIZjY5RXdiWTdlTlUtbWhiR1JneUFqd1dmbi0ta0R2dFh1VjVTdVVUNUQ1SjFCdTMyZWUyU1dRSkZyOWt5UzhOR3AxQ1ZmMmdZLXRZeVV0akxlSFlpQWNvZ2hxR1nSAdcBQVVfeXFMUEthZjh6a1NPQ3B6ampoQ3o2ZDZBc212VGtOLWZabzVvU1F4dzQtbGRrSnBQQnRxTkZGQUQxS1VpN1EyWWtZbzRMRG9aRDdNZG1OcE9zc1hPZVp6N29GOUhJVktJbjMzY2JaV1BydTVPTkp2cUprT2ZjVVgyeDFWbmdfcUQtUEp0d0dFanZPVXl0YWt6cHRmdHE2YTlIVmVWVy1XZWJ1eFZJSkZwTXYyaFFNTHFEa2VhcGRBdDhTVkdFaG1nM1BMa2FVdEk4ZXpjaXp2bm9qZWM?oc=5",
    "time": "2026-11-18T13:01:55+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Now launching: Goodness, an AI-powered operating system giving nonprofits more time to focus on their mission",
-   "source": "Refresh Miami",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUGZER0prM202SHI2NHQ4ZXlCQnVBTUY3T1hmN3U0U29EQ1lUVFU4Q2xic0xwVlAxVkhnd3NVcXFudWpHWEUweVhJMktWUzZkVUpTcjhCdXBHSlFOWHZlUVBIVXM5U2N4dHdnQlhyMGM3NVhmazhwaWcycTRIMGg1OFlHTmpkYkdNblRKcjdwQlpHTk14NG5pVHFqaER0ZmhmVjY4dkFscWIxN3h1VE5QQmVkODRrY1QtS213eGxDOUF6dDhHdUlWSVlKS3BpeEJ1OHVWaw?oc=5",
-   "time": "2026-11-18T13:01:22+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Miami Dolphins news and updates continue as The Phinsider turns 20",
-   "source": "The Phinsider",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNjZKTXhwcHVnMzBQRFF1TUVuWmNUZTNXM2p0NUV3S1VrYlZwY0JsR21UQlJHTXprRjkzRV9KSWZIUksyMmw3TEtDTWZ2Yk5HSkhPUlJCVXR1cHJiUW5fX1ZOWkE5UXM1SWFlQmVEeU0wdFVGdXRfeFpNenB3ZkU1VVRTNWQzUnVGa1d4QlUwc2ZNdWtVY2p5UkF1dEtzNURrdU80LUFiQVBoaTRTWWhZWmFBZEg4b28tVkdwdzVyYzFacmVESG0tYmZR?oc=5",
-   "time": "2026-11-18T13:00:05+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "I was almost a victim of an online scam",
-   "source": "The Miami Hurricane",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjVxVW96aEZTTEg0Tnk2eVVEM1luaDAyQ1VOUHJVQkxyNWcxUTlOdVNSaEtWejNDOWU1SFp3SXpPMUFpLUtqMXktcm92R3dSNXhkTTFsUUl2OVVMZ2VUc1hfeEtLaE9vX3ZWRW5kU0RuSnhHLXlkQ1FNTjJNbXFEQUJ0dURlSHJJ?oc=5",
-   "time": "2026-11-18T13:00:00+00:00",
-   "cat": "Top"
+   "cat": "Weather"
   },
   {
    "title": "South Florida’s top deals: Texas private equity firm cashes out of Miami Beach hotel for $81M",
@@ -161,6 +310,13 @@
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNjBvQTh2aWhfY19XeHFoZXFkQmswaTBnOW10S28xZHVadkRpOUxXZzBPX1BWMWZwNDhjOUtCQ05vNlJMZHVkYkJwTzZjM2lYREdiZXVBdXdiT3dGeHNTMjZuWEMtam4xYmJlWTJQa3J3eWVEbUowOW5oUGZwNVpRZ3lKZ19RQ1BqSmNVT0pDSTM2NXFW?oc=5",
    "time": "2026-11-18T13:00:00+00:00",
    "cat": "Business"
+  },
+  {
+   "title": "Video: South Florida roads underwater as rain triggers widespread flooding",
+   "source": "WESH",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR0dxRUMzWGg2NTFSRUREM2xQWEVSOHRBTmNBc2Y3c0VmT25mcHVsRzlMSHZIRGNWV0JHRTV1ZER2dUJvc1VBVzl1Z0Y3RXlUNFhwYUZFZFViXzVTOHhXaEJCVGk4cU5xeEZ0NGdfMXBhQ0VzbkVGa0hjaURjWFJJYXZrOXY3MWxrOElDeXhmcThTQQ?oc=5",
+   "time": "2026-11-18T13:00:00+00:00",
+   "cat": "Weather"
   },
   {
    "title": "Enrollment data shows more diverse freshman class",
@@ -174,42 +330,14 @@
    "source": "WSVN",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHNCYXVFdjNVd09XdF9SVHMyNTFEdWFDTUpjN1dsSXlvd2pSVXdQNVg0THRKU21kUzNqODFPUGN6UFFJeExKZzVCZWJ2SVJVc1JuM1VnS0dkaWNUUzhCT3FFa1hOVXBVaXRmMF9wSDRLcU1nSTJXV3VQSmZrem9hVEpYLXNXUQ?oc=5",
    "time": "2026-11-18T12:52:11+00:00",
-   "cat": "Top"
+   "cat": "Local"
   },
   {
    "title": "Locust Late returns to Miami with free music and art events",
    "source": "Miami New Times",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQS1XbGdSSHJPOGVQWldLbU9jbWk4NnVNZ2RkZmJDbHZxNUd3Yi10bUVMM3ZaVjNYU3F5NVVvbnV3cTMwenByY2N3dFJwWUhVa2FUS2JRUGxwRkdRUUtWWE0tV1p5Qlh2YUxZTE5ZTUJXemw1TlRDTXQ0azlLM1NnRmE5cUxFeE4zYkd4d3FQcl9KRnNkRVo4MVpZejlTSnFDWlVZbHZzelE?oc=5",
    "time": "2026-11-18T12:46:41+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "IBERO-AMERICAN FILM FESTIVAL MIAMI ANNOUNCES THE WINNERS OF ITS EIGHTH EDITION",
-   "source": "Detroit Free Press",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMG4zS2c5Y0FrdVB3RktWblAxNFB3aUdnQVJac3hkTkJSZkFlNHpfcmdfY0U1dnBhbHE2Y1o3TnBuMjFYTWRrQnp2aTNfTm52bGNqOUE0S3RGNjZDcmhtRElUWDZjUWt5akl4MGZMTTRILWxFUFRGZm1QM2pxX19JUFJGX3hhaU9reWt6QXh4eGpDOE9PNWozaFJjMkZJUzZWS0U3dnRwU1l6U00yS1dBNndvV2liaXBldEc1cl9yeHh5SGVpUlNR?oc=5",
-   "time": "2026-11-18T12:38:14+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Schools closed, roads swamped as a foot of rain floods Broward overnight",
-   "source": "Miami Herald",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVZIeUFKZXlOdU5KV3BBenVvOWxROWlld0lpMFpqU2NiVDR5elRoalFtWWVwYWpyUDlnUS00dWtpYmt4UUdXWDlKc3c1aS1wVjVvUmZWM0tQNllldW42TUF6Nk44UDk1bUxsSDJsU3VOMGE1Vk0teHBza2RiVG9aNTBJVU7SAYQBQVVfeXFMUDdXMWREMHcwZmNjX1RnZ3hqY3FMT3RJRENWdWtFRGpsSUJnaklicU9RVXNYRmVqQjlfT1psdi1ybjlhWXpibkN5NEpCQl8tNWRkd0NpNmlaTno5YVIzWERfQjhKcGExVFBfeHRqdGdQcE9IYVRJdVU4aG9aVzlLX05pQnVq?oc=5",
-   "time": "2026-11-18T12:32:00+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Falcons 53-man roster and practice squad at the bye week",
-   "source": "Miami Herald",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDS3pGbEhGQ0VpRmZzMDFTSmxBQXF6eFdiVUVlVlZSNEstMldrSXNJMVEtbmpvNzFTdnR6ajktamhPSHpJVDB4XzktZkF6cnpRQVRtb0l2UDdiNElUTzVXODIybHhSMkE?oc=5",
-   "time": "2026-11-18T12:31:00+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Miami Heat vs. Milwaukee Bucks: Stream the Vice City Game Celebrating GTA 6",
-   "source": "CNET",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTFNrVUpkdW04WkhLV1I3WDhzc1I5ZzVieW0yUWx3c3FXWlAxblZkMGNJdUxUOWxWNHhqODFlaElfel83X0ZZR1ROS2l1OXI5RW9QdnlZMGxUZldiZ1FYNVpJbkdCUkhwMWk2WWJjWHFlS0p1SUxRcWRFdXNFaDN5b2JqdG9Rd21qcmltdHpHb2N4ZkJuN3I4WHZXYnRjY01rSnF3YVhMY1BzOWpwQjY4?oc=5",
-   "time": "2026-11-18T12:30:16+00:00",
-   "cat": "Top"
+   "cat": "Culture"
   },
   {
    "title": "Severe flooding hits parts of coastal Florida from over a foot of rain … and a lot more is incoming",
@@ -223,7 +351,7 @@
    "source": "NewsRadio WFLA",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdjRocmtRT3YzYkZNTjA2eUk5cFJQbTJvZFg0TEFVdkM5d2t2NUx4OFRJQnhmYU1ja0d3QnNzcmNwVWVQakFkaFhlT2JTSVdoTVdZZ2dNd3FHaklnaE1BVF9hQ1B5ZU4zOVN6VVhmbjBEaUlPblFENHp0MkE3ZUpMX0ZrTUdyTDFVcHBGN2FRN05nbW9rYmI5Q196T2NqMUlpTVZNbWRyMV9neFBUbXAyZUl5dEJhZjNVU0wzNGhLWmt3NVJkcWw2RG50QmJ5dGNQYkY2VVpiZU8xUFFqUzRTWkpoM28?oc=5",
    "time": "2026-11-18T12:27:00+00:00",
-   "cat": "Top"
+   "cat": "Local"
   },
   {
    "title": "Littlest Art Fair 2026",
@@ -237,21 +365,7 @@
    "source": "The Palm Beach Post",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdEpNcktyZUtPWlp4U0FCS0NyWXp0NlpheGN2TFVrbENNWUNlUk9fcHVfMW5hczNERjJLYm9ac1dHVXpoVzlxamR0dldQZjN5U0RTS1hiYUFtQkdtTVlNcTQyRDBoOVE1N3pOcnFuM01PZDVxNXBITFRSdm1pUDBCTWRqa201QTFFcEt1WVBHVEpZQm5TTDdNU2h4ZjBaaFlUTEpwdzhHb205TFBqenNnVjRNQk41QzBIRU85TnNQeWtFQ3pH?oc=5",
    "time": "2026-11-18T12:25:25+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Floodwaters in Fort Lauderdale start to recede but danger persists",
-   "source": "CBS News",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWpPNFB1ejgwRkR6TDFTNl9Hb2VGZ0cxOWg4UFVjV1NYOG1wR0EtZmZRX3RIaV9hMC1McFI2WktqSDFwbFlvdkNVU3M0OXF0aU5haWJtX3hGSDFUOHh3U3R4QnlnT1o0ZVQzeHJzVlNhLXNjRTNRejBHbkJRM3hfTGtKQ1M0a19BeS01amM3Z3BhNUZXcFczVE43RE5tdE4tYXMxVENB?oc=5",
-   "time": "2026-11-18T12:22:00+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Miami's Thanksgiving Dining Guide For 2026",
-   "source": "Forbes",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTUI4N0J0WmN6LW9VNkFxbVM2OVB6dDZ1dU5WNGMwQ21pbjlTQUhPaDVSRDR1NHZLVjdReEVrMDJfeTlVdkdvREg4cmZUb2w4Nmw5bVltX3dHbWl3QWRDNDdMVUdMUXdiWXJ6LUlkVnR0Smk0THlEcFhJbkJ5WGZfTS1VSGVJbS1QeTQycWVTdl8xNjY5NDlLaTk4LVNXNTF6WVpMWDJwYw?oc=5",
-   "time": "2026-11-18T12:21:57+00:00",
-   "cat": "Top"
+   "cat": "Local"
   },
   {
    "title": "Strong Storms Flood Roads and Parking Lots in Northern Miami-Dade County",
@@ -261,11 +375,11 @@
    "cat": "Local"
   },
   {
-   "title": "M-DCPS celebrates 3 years of Green Schools success",
-   "source": "Miami’s Community News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeVlyQnJiYmtEM3VmNF9POGdDcGZOSGQycTVLWEZwa2JJVjJrQXpyblNKRU5mUC15RmRJQ1U1VFNtLUNVQ2tVM1pkS0VkWENjb0s2c1pQSklLNTZPT29NdU55bURTOEJobEM2TnFJbVB4ejZIOXJTZjgxTHJNTW5YX3VuMEtPWmJiVmFMR0wtSzZFMHJaQWJVbFpDM0FwRVBWaDkw?oc=5",
-   "time": "2026-11-18T12:16:36+00:00",
-   "cat": "Top"
+   "title": "Major Flooding Forces Broward School Closures, Hospital Restrictions, and Synagogue Roof Collapse",
+   "source": "NewsRadio WFLA",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRTRCQTVyM0xLc19VamhMVU9iVU1Wdnk4UzVKOXN1MkhhU3d1eUxLcUxhUU1uRkRSUVdQeVRFVHVWbzBlMFJvQUdhbXB3LVd2cHBfNzZuc243YVZYNjJQUy1hWGlGWTNGR1VxVjN2YW4xNV9leXAwTk42XzdSMVpaYWpveG5WVU1INVhSY1JJajFPaE5acDhfRE1sSjhXMjlNY2V0djhOOEk5NjAyaEhxVnNFeUhrOWRfSmNwX3NFS0EwNlZOZTRXUUx3SE1odUFoQ084Q3JaaktHakI1bURTNTViQlhNTWwxcHFaNmlMZGpFYTVGTmhsVw?oc=5",
+   "time": "2026-11-18T12:16:00+00:00",
+   "cat": "Local"
   },
   {
    "title": "Prizm Art Fair 2026",
@@ -273,13 +387,6 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGcTFGSzZqaTNsSzFOZng5aHg4OGJPVk5mZzRUdGt6aHFBTUZtT1d1eTZRNS1iTlNhcE02aFA3bmFxQjVVQmhEWDd5QTBvYmtEVnljYW9saGlKUXF0WFhQdUtNdDFncks3WVNibnVYQmw0TXJvM3NlSw?oc=5",
    "time": "2026-11-18T12:14:00+00:00",
    "cat": "Culture"
-  },
-  {
-   "title": "The Real-Life City That Inspires Grand Theft Auto VI",
-   "source": "The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEJwZEhEVE4xMWIyWEgzNGdJRWNwZHROdDlHcmhfQnhZLXAxWTBpWW9NeGxSX1dkWGpmdHJxYXJYc1JudThVdmd5cDVKdHJpV2VuY09tY3o3eElvVUh6aE5TSWstRGhHdzl3QWxyZVZtalZtRFVPWUh0VHVWSzBzS290aGY?oc=5",
-   "time": "2026-11-18T12:13:53+00:00",
-   "cat": "Top"
   },
   {
    "title": "Heavy rain causes flooding in Broward as South Florida braces for more storms",
@@ -293,14 +400,7 @@
    "source": "Robinhood",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbktZN0I1OWNGTThxQ1FkakQyaWZKd08xNldNY0luWU9QV1U2VWNhWml2cjY4ZVpTeDdfdzlvdWhXVHdJeDRqbWl2V3d4RmhsLUEwZG1Wdkd1dWlwT0xPMnpyNXNVdmdISkthZlYtcXBzZ3JBbHM3T1VibFZ5V1A1em5rVkpueWNEU0VZSWY1Rnk3SWtJMkJZWVVvSk1zR0xKVGJSaldB?oc=5",
    "time": "2026-11-18T12:03:11+00:00",
-   "cat": "Top"
-  },
-  {
-   "title": "Giannis changed everything, including Miami's margin for error",
-   "source": "ESPN",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXhxQXE5VmhBTUZtVm1MZXUyVG5tNnVCd09JVTJrOUtqenZlckdjN3VETk5Cb3NYQ3d2OXhaZUlGMUFicEJuOTI2Y0RMWmN5Y0NJR0l4bURoQnE4LWI2MWs0NjRYVWxjVG5ITmRjLWhqR2J0ZmJ5a3FfVHpzc1ZGZHpXY1VVdkhzeHBDRFprVnY?oc=5",
-   "time": "2026-11-18T12:00:00+00:00",
-   "cat": "Top"
+   "cat": "Culture"
   },
   {
    "title": "NBC 6. . You’re watching the NBC6 South Florida News YouTube channel. The latest news and weather from the South Florida area.",
@@ -331,7 +431,7 @@
    "cat": "Local"
   },
   {
-   "title": "Major flooding in South Florida forces Broward officials to close schools Wednesday",
+   "title": "Roof collapses at Hollywood synagogue due to heavy rain; flooding forces officials to close Broward schools Wednesday",
    "source": "CBS News",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDc2akFnSXNyWjVQeG1sd01ZT2VtWGxsNFliX0tRSkxEVjhHdzUyM1RpWFhCbTdwZG12VTFoaEFCZlJSOVZRWG5sN2hQR05xNjZjempKbGczYnE0TmNuVzlidlRvbHowNGhQSVdQUnZtcHBZSXN6YXlITVZ1RVVPUE81c045aDJyOVQzTm1VdU9SNjlRQnBmNS1STnVWVWl0X0t0MzdsWQ?oc=5",
    "time": "2026-11-18T11:34:00+00:00",
@@ -357,27 +457,6 @@
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMnNPREN1Njc3SWlIdlY0QVV4M0sxUFVZUnllUkw0TTVRWk9FTGYyOWl4Qm9TdlpDUVA4dkJXclF3aG5rQVo0elJLcGU0d2pQRWFIeGRPM2xrU0NQZ0g5M08weW9qa1UwUTRueVZtWGt4UEVFRUk5NWpoZ9IBe0FVX3lxTE5LQlJUb2c2Y3ZhTUZTOG56MThOdHUyZHdxcEhpZ3Y3QmJRd0hEVjloMWxVVGhwalp1a0pNNmc1WFdULTJEQ2NnTmdHTlBUcHNSWGZmQVdTM0p5WkZTMmdZOW5ldy0yQ2w1R2xKQXVNTDlhdjBCVTI3RHZ4Zw?oc=5",
    "time": "2026-11-18T11:15:00+00:00",
    "cat": "Culture"
-  },
-  {
-   "title": "Emerge – New Asian Narratives",
-   "source": "Dezeen",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2llS2t4X0dMUkt1RU1vXzBSSkt4OUV0UUNPcjFWSUdHVU13Yl8yR0taNHJ4R2NNbDJkbkFFUFZQWUR1dndzRGg1S1pTclc5Sm5oU1V2LVA0NW43elBMemd1dEh1T2VZTHBxTXF0UG8xSTRKYlhqSENsOEZoYzh2VlRNajY5QWQwWHc?oc=5",
-   "time": "2026-11-18T11:00:05+00:00",
-   "cat": "Culture"
-  },
-  {
-   "title": "Face to Face – Alex Katz and Julian Opie at Opera Gallery",
-   "source": "Dezeen",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFFrT09qamRIWVNBR2poRnBOQ2pGMEtBNGoxMzNhYlFjU2xQQVF6VU9yUkJJaW8zZ25ITXQyVFVKZmtTcjVSckVtWnFRZTRfQUlxdTlmRjhKQjVIVXljNjJCMW1xTVF4RkdiLW5SY1JrYjdCNEt5UTMzWHpXd2xEWlFnNjF3X21ZQ1lNWmt1bEt0d0U3R2IwQWllZnVRUFFMWmhZZWhB?oc=5",
-   "time": "2026-11-18T11:00:03+00:00",
-   "cat": "Culture"
-  },
-  {
-   "title": "Small island, big heart: Key Biscayne nonprofits rally for Give Miami Day",
-   "source": "IslanderNews.com",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ0p5bFBPVFVnWnFrNFlWbDJjZW90X2Q0ZTdXWkdOdWljSjhtY1JGREliSnE2QWI4M0h4SFlMcUJyR3gxby12eVpKU0Nna3l6RTlhbXBLTTZBTUE1S0JMZHNXdFpKeFFrMGxoWmNMNjRvQi1KaE5pLTZwbWFYd0lLOGVuX3hTaVZXcXVXRUtvYk83Ry1OUE5KMkxkZWhtYU9QTzZ0UE9kM0hRZ2VacVdkTjM2NkNkbW9vM2JtRkNUUDBKUGlQcHFSMWhCM3VQOFZabkRENVhxOFI2YmtUV0dEemVKMFVLNmsta1BVM3g1UlVYT1U0S2hzR3dtNA?oc=5",
-   "time": "2026-11-18T11:00:00+00:00",
-   "cat": "Local"
   },
   {
    "title": "Lasvit at Design Miami",
@@ -439,7 +518,7 @@
    "title": "Where is flash flooding in Florida? Flood watches from Jacksonville to Miami, 12+ inches possible",
    "source": "Nacionale",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS2RFejBNQ3JVZHNhRUlrWE8tbUFjeHVDM0R2U19Wa05mLWtCSVZnVi16YzRzbjZYMGljaWVWN3djMkxpUTYySmh5NHROUEFrc3lhX3YwUFJzQm8tQlFmMmxnd2k3Z0F2SW1DNjI3aTdUN2ItMHNhOC1sNzR6WTU3R3BNZXBiM29fRU9xTTV3bDhDUlFWOE5aa0ZZWnJVaWVVeTlUSXJEdUFOQXljcmc1SS11dktBYTd0M1Br?oc=5",
-   "time": "2026-11-18T08:29:23+00:00",
+   "time": "2026-11-18T08:24:21+00:00",
    "cat": "Local"
   },
   {
@@ -499,6 +578,13 @@
    "cat": "Local"
   },
   {
+   "title": "Residents across South Florida report cars inundated due to flooding",
+   "source": "CBS News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnZaWENuMC1kU2lNaWVmLWFrUUZjdnQ2YWtKeXRwcG5kaV9iZ1ZkLUZ2dlJIX0ViYWZyeUZ4ZHc3alNxdFBoNmR1a1FxdWhmTEtSTXZ5ZGo5czVkak5faWdWb1lqS195cURid0l0Q09OUlpzdmg3VEloSFREbkpYLXVaNW5nalJYYUF6NGJJRWF0azhGTFAySVV2Uk93UFRueFZYSy1MV0M?oc=5",
+   "time": "2026-11-18T04:31:00+00:00",
+   "cat": "Local"
+  },
+  {
    "title": "Flash flooding impacts drivers in several parts of Miami-Dade, Broward",
    "source": "WPLG Local 10",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWlza0ptQjkyM1gtNlNudzB3RE10MGI3Q2d1YXV3QTNtd2EzNHdYZ0FzNUp0M0ZDUnlUU2lWMGJLTDJNWGtGNWJDU3pXSy1YMVkxV3RPZWp2RTJHR3VfcUJubXpBREFQYTBfNzZZRVB3TjdZa1lLUXZiYmljUkFZR0x3RnZaaGloTlJoWGZmY09uOFdCb1RGdnhyREpZM3V3UFA2WUNSWUZaLUpzczdjdVdzcS1qTDA?oc=5",
@@ -555,25 +641,11 @@
    "cat": "Local"
   },
   {
-   "title": "MDSO: 4 suspects busted for stealing meat, alcohol worth $1,400 from Publix",
-   "source": "WPLG Local 10",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVJGbVFEVTVfem50T1lIUVVJM1RINkZXcTlwRUFjQzZqb1ctb0U2U1ZfUi1JTHduVTFuMGR0TGhhdDNsRFRJMk1ZOTBtU19ueWNNaEhFTURWS0VzY01UMW9WMDc0cjBhV29UUUNFdXl1SC1GaVBmS193Q0ZtTGh3VlozdkQwQVdaa0hUeDQ1TTVoajFvcF9aMlVCT25tWm85TUJJQXZFbEZ0ZjY0WUNiTEhvT0pjOFNJUlE?oc=5",
-   "time": "2026-11-18T02:56:55+00:00",
-   "cat": "Local"
-  },
-  {
-   "title": "Officers across Miami-Dade take part in Police Giving Thanksgiving Initiative",
-   "source": "WPLG Local 10",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaFhBbkw3V0UyR1ZOMjZrNXpfbzEzckhaOHRidEVWeTA3cmFJdTFIRkNYeXdNa0lXalg0RkNuUnVFa0pfRWlBSlNtYkZleTNIMzVXWXUteGZKbUtnWmZ0Wmp6UFU4Y1pYNndiOS1abkRMc0JTTi02VEYwYlFIMVJWUGZxblBaYjE5QWlaVTdwd1p5d090UDIzSEw1LXZYak5vSEg1V1ZTN3VUNTdDTUFkcVB3T0thbFozTFlEUVRTdmtCZw?oc=5",
-   "time": "2026-11-18T02:44:21+00:00",
-   "cat": "Local"
-  },
-  {
    "title": "Cars drive through flooded streets in Aventura as scattered showers and storms roll through South Florida on Tuesday night. ☔ The National Weather Service issued Flash Flood Warnings for parts of Miami-Dade and Broward counties, and a Flood Watch is in",
    "source": "Facebook",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZVpLeWZSb1dfRFZxN2tNS2lkNzNfVjVMUDVhVmpEall5NVc1c3ZKSnlSZU5fazFNN3ZPRXRDNDRMNnpGY0NLVEN3UlhoaGhnRzMtWGVsMHMwMGYyQkUtRUUzZWpERW9XdGZZRHJIZ0ZsNUdJckl5Mno5Q3JObU00Vm5SbURFaU9DUW1xdk1XNDZuTnp4d1F6WjJmdDdlTHl1ZjU5ZmN3cV9pR0h5VkhhQjFYUWVNbFFOejY1QWt3clVFcW5XVURTUkxmX20tN2k2NGYtRGZxOUI1U0w3bGw1bg?oc=5",
    "time": "2026-11-18T02:26:19+00:00",
-   "cat": "Local"
+   "cat": "Weather"
   },
   {
    "title": "The Littlest Art Fair Returns to Little Havana",
@@ -581,20 +653,6 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kdC1OR2E5NTl5LXVnenJsUXZzejJMSjNHS2VDdlRwQVV6SVdnTGdfanlKak1FcFdXS3R0T01vSFRBcnNXOG9XVU8zcXprUzV2OW42S09iRWY0XzVxUVdB?oc=5",
    "time": "2026-11-18T02:22:31+00:00",
    "cat": "Culture"
-  },
-  {
-   "title": "MDSO searching for 14-year-old boy last seen in Miami",
-   "source": "WPLG Local 10",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHRHSFFiaDlIbDBUVGNWanFucGNVbS1LS0szT29zdGhhcjNhU05OR052RlRPRE9QR3ZzN2VmMmdHZkQ5WWJ3N1QxSjI5a1U1dE1iZXZIZE9TX296VUppbnItdGVEZ3FsUlJTX3c2NHNnSUJ6eUtHUVI3dEdrYlFPZ0p0V1VVSi1hR0RCaF95R0tkUjBFTVhXV3RPUGpsdzZWM3c?oc=5",
-   "time": "2026-11-18T02:20:20+00:00",
-   "cat": "Local"
-  },
-  {
-   "title": "Flash Flood Warning Issued in Broward and Miami-Dade, Florida",
-   "source": "cedarnews.net",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEsyTWFsTUJkYXZRamVzbmZDdFpIeXVLWnlJRzF0R0RYUlR6dGtFZVo5bDJjeVdpa290UnNiZ1A0UnN4dGs1Y3FmeVhkRDc3TEJ4M1BOalNhSGh4aDNtcVFDNDlXblgwVUhQLTN1UTRpZFd3Z2hJMWFwSnA0OFNweXY5UGhnQ1QwZjBTeW1SQWs?oc=5",
-   "time": "2026-11-18T02:07:46+00:00",
-   "cat": "Local"
   },
   {
    "title": "Miami Dolphins serve early Thanksgiving meals to 200 South Florida residents at Hard Rock Stadium",
@@ -608,7 +666,7 @@
    "source": "Robb Report",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdkxWakE4UE5xT01VM0FzN1pHUzdhRUlQTzBIbUJ4RDBWZ0ZHMl9WSUg0OXg0UVlITnNpc2tVbmxrWGdkMTVaTmtlRThYU0xDVEU2Y2lDWHpZMDAtaW9nSjNlOEpiNFZIQWZTQl9ZY2NPOW1QdW9yd3lkMGpiZmE2SmRWV3Nhby1LTHNRZjBlQlQ4S1BCVUt1X19MY3lfWS1P?oc=5",
    "time": "2026-11-18T01:00:00+00:00",
-   "cat": "Local"
+   "cat": "Business"
   },
   {
    "title": "The Sherman Estate in Photos",
@@ -632,7 +690,7 @@
    "cat": "Culture"
   },
   {
-   "title": "Miami Heat unveil 'A Night in Vice City' court, activities ahead of GTA VI release",
+   "title": "Heat unveil 'A Night in Vice City' court ahead of GTA VI release",
    "source": "ESPN",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcEVfVW1ZMmVCUlI3V2dIYjNwdVNDTU91T25GMS1wY0s1WlpxWVFMendXQS1Fd2lpSTliZl9taFNHYVdrTUtQZC1zZncyZDNvT2E0eXdjSVV3WXRSd09wN1lPXzUwd1lnV1VKNndGWnpCM2dMMGRaZWlnS3l6dV9aV1JB?oc=5",
    "time": "2026-11-18T00:19:00+00:00",
@@ -758,6 +816,13 @@
    "cat": "Business"
   },
   {
+   "title": "What A Month Without Malachi Toney Can Do For Cooper Barkate's Draft Stock",
+   "source": "Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOXR3bFN2bGI1emo3Zk8xQzd0MVZMUkkzR3RrTGJheE5SeDlwZThQZmtCS2l3SVZvNE9tS3FjSWJuTDRxUzBiM1B3eUY2SU85aHhnZDROTTYxYnhKeUZSNS1yQmRRUXNEN0x2LVZMNk5JQkdCYWhCV0tDNkQ2ZmJMeURFSHJzUmtyaUN3?oc=5",
+   "time": "2026-11-17T19:30:11+00:00",
+   "cat": "Sports"
+  },
+  {
    "title": "TPG sells Miami Beach hotel for $81M as South Florida hotel sales massively outperform rest of country",
    "source": "The Real Deal",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREtkRmFfMmZ2elFlYkdidzNrSXJPVExoLUNaZ2dlLVoxU3BCZnpHRmhPbkVEWDdFWXFDVFVpVUNLYkZrY3BaY3pNYkV0bjQwSjg1bG5BUEZDYXV0bF9lVWd3V2VnNlNkdGZIaFZrZ1FudXFVaW14X3M1ay1kSmstYmd6R05xTWZFWEdlNlhmRFpjU3FHSXpBaDlwdDg?oc=5",
@@ -828,13 +893,6 @@
    "cat": "Sports"
   },
   {
-   "title": "5 checked for injuries after JetBlue flight with severe turbulence lands at FLL, fire rescue says",
-   "source": "NBC 6 South Florida",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNE1tdWxsMEJsNlRsbkJQR05kVnRFVmRsSjBfZTJ6TVNHVnBaYzZBeWNoRzhOZzJKVGQxTFFSd1J3bVpSUnRFaGJCcjVrR3ZFWmR3XzktZ2JfZ3RaLVFVQnBkMW1tZFd4WWxqNXJMdTdMZ3FKM2d5bldVdHozQ1JIcWVLamM1ZER0bWgxblprUW4xV2tJazRLbkd6VU5XcFYwSGdObmRBMWlCWGlzMFoyc3pwYkNsNWhJRUN4czRvc0FZd0ZKVVhVTDNSWGRUS1FMMlVMZm1TVUHSAeABQVVfeXFMTlBMeWQ4UHQwVmZ3SjBnenA1X081cDNpVkFtYklwQmVEUktCX05PelhUWVBLeWU5S0pIY1ZFTERyT2NlYXg5U1lSV3FDd1k4NmRoYlJRM3U5MW1vZEpNdV9UT0tqRkZzenFudk9aZFItOHhfVlY5NGM2SDVkcTVVZG5hclJpUjQwcnNOSEwtSmdPWHJRSjdLRjItOExqVkxpVVV2V3drczBpVThPV3d3SkR3QVdxNHp6c3RVbmIyaFpOTVQ0ZFdON3dubW91SUtFZVhwSUdwTDJWR0JZT2NkaDQ?oc=5",
-   "time": "2026-11-17T14:28:12+00:00",
-   "cat": "Weather"
-  },
-  {
    "title": ", Miami, FL 33132 | Realtor.com®",
    "source": "Realtor.com",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RS25GNC1YLWh3aTE2Smg2NGVvX2NlYk5FU3JZeFBGZW5jNmFzWUFTVm1xWWNqdDFzanI0dkNRdFNwb1JhbG1YUlRvN1dQUUxKZnhPREg0TDM4aE1SUjFBSGhpcHBobW83VTNRWW81bnNvRmw0dHc?oc=5",
@@ -898,13 +956,6 @@
    "cat": "Business"
   },
   {
-   "title": "Dolphins Lose Heartbreaker, But Kyle McCord Gives Miami Reason For Hope in NFL Debut",
-   "source": "Athlon Sports",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRUdUNFF2dU5DRm9Qem5ZbGNOaERNNUNZZjYtUTNjckNpWjRuTDFvRFM5bVl6eTR2bnpfSWtoRWhLbk9pUVBUc3o0RHpFcjRyVHpwaGNtMUhESXRfMVROd2QwMm45a2tMMXIwSUxXQm9hMUZwbVUtOUEzTE5ZR0FlZm1pelZIbEF5VjVBZ1RVaEN3NmxGV3c2UU1EVE4tTG4ycHNkV0VmUUFQZENZSVlTZzdmeVZFVnFyOHd5WmZDSlFmQTVXLUE?oc=5",
-   "time": "2026-11-17T03:32:00+00:00",
-   "cat": "Sports"
-  },
-  {
    "title": "Utah hospitality firm snags Miami Beach hotel for $81M after value nearly doubles in five years",
    "source": "The Business Journals",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS0pQeXVtMmVJLVNDLTd6TkxZUktlb3VQeGtYZ2E5bWZza1dBNDQ5UWxIMXZtcGRmWlV3cWRtZzUwRE5YZEV3MGNXMUg4ZEt2UGw0NlZCS3UxOWstekVBSE1yTzRVTm9raFY0LTVhOGN6U2l0a1hoWGU3Y0lhTHo5Si1NYU9Tc1BNaG4xdnh1MUlocVV3Q1Q4?oc=5",
@@ -912,31 +963,10 @@
    "cat": "Business"
   },
   {
-   "title": "Home sales in Miami are falling: what does it mean for Cubans looking to buy or sell?",
-   "source": "CiberCuba",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOek9RbmhNRU1JNDktY01aM3NwQ28tLWVIeDNQc3NZMzRxSzhyeWVsR2xTakpIVGh3UkxBQV8tVG45bEhERHM1aUZNa0VWbDhpb3NDcWFZbV82bVRVVm4tNjgyTEZfM3RMdUJDZzFvT29fejZ4RHdVTUlDTnJfVDJkNV96V1ZDYzBqU1JoNHg2RThVTWVFcGpoTHRQckw5QlF6RWxJenU1TGxXLWZ3NkxKMUFZTVk5a2wtQ0h5c2xjWWQ?oc=5",
-   "time": "2026-11-17T03:16:58+00:00",
-   "cat": "Business"
-  },
-  {
-   "title": ", Miami, FL 33179 | Realtor.com®",
-   "source": "Realtor.com",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVUlQYTFac2RCM1puSG1ZYnROWDhsbko4YmNqdjc5LWJTWDRBdHBHN1VqZnhBZmZJOGZyeUZiNWFQYVluWC1KR3FSRlZmWWZxX20zclRrYkdyQVVaZEpfSmJndmZleUxDUF8xSnoweXdnNE8zdWdVTXN6YnlETkdDWWZScWV0QQ?oc=5",
-   "time": "2026-11-17T02:47:51+00:00",
-   "cat": "Business"
-  },
-  {
-   "title": "Boat driver found not guilty in Florida crash that killed daughter's teenage friend",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNclJNRmRqMERzdU41TV93RV9rWVV5bFNYV1JYeEg0amVaTF9GOGZ1V0R3RzN4OU5LbEFOV1FFUXhpLXJDVmowSF9DYTlIRlJuRjZBd3o3TVd4UDA3aFFjaEx6bjJFYU5nYlVNTTdjU0NGdzZrQUhWd2lBazI2d2RPU19NWEhFb1FyQWc3RDgteHVlUXhJMlU5ZlUtMVbSAaIBQVVfeXFMUGY4djZEcDJCdEN0SWNjTmltdG1qUHZDMzFmSVB0TXFTTG9OMm00MDQxbTktWlliYlJkNWZJTmFMZmlFLXdmdkJiOGpvcVlJaGxCSmFsS1U4N0lPOGVudU1CQmJNdmJfTXVrV0FiT3pMNk1VUU5mY1NxMHNRSzhHTnA4RUlSUU92LXJfLXVmZXFhZlc0R2hHeC1FY2MxZHRyQUdB?oc=5",
-   "time": "2026-11-16T23:32:39+00:00",
-   "cat": "Business"
-  },
-  {
-   "title": "Le Moyne women’s basketball falls to Miami after one-sided second half",
-   "source": "Syracuse.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0Q3dzNNaU8wLWZOUUJHclU3MVpwT0N3VGpGR1NDR2ZoSHdxVWc0Q1VMMmQ3M04taGZMbHdCT2xzaGdrZmRpV0NSbHNleTZRZUZZM0pUbmlsdmhvNHVSNzZXb3ppUWRPUF9qVEtqVDlDcnc1Sm1Zb0g0d1VOYnlCQjlEWWVBZlB4WjZkM1BwZVplZC1YQWpCT0pWbnpxY3E4b2lkUGdwRXNrcHl2Q3dSWHI0bDY?oc=5",
-   "time": "2026-11-16T23:01:00+00:00",
+   "title": "Vice City Showdown! Will Heat Nation BOO Tyler Herro at Kaseya Center?!",
+   "source": "Audacy",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQckp4SVhlOUtmUF83Mk5DY2FTbklNa1BQYWNVem1LbUdFa2N5MF96WWlVRUdBNzVnelZIT292WVV5UHZsRUJKbV9VRWE4SUQ1eGIzMURfRk9VQlVzUUJ6R0FoVF80VlNEQnU5NDFLTUFSaTJRQUp4S1FRbm9oa2ZFTmNtRnVMZVpkMk5aVGJpSm1KRUxxNDlBazNIT2dSNFVCNF9SbWd6Y3BaZU01endj?oc=5",
+   "time": "2026-11-16T22:42:29+00:00",
    "cat": "Sports"
   },
   {
@@ -1045,7 +1075,7 @@
    "cat": "Sports"
   },
   {
-   "title": "Rounds of rain fuel weeklong flood threat along Florida Atlantic Coast ahead of possible move into Atlantic",
+   "title": "Flash flooding swamps Florida coastline as relentless showers bring weeklong threat to Sunshine State",
    "source": "FOX Weather",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVnlKLWh0TDYzaVJPZlllNHZBa0dsVDZhcWFjRk9ndnRHOWQxRXpYQ2E0MndkTGtsMXM5UUd4SGtiMTU1Ymx6ZU5JQWRwaEV1TU1Ic044TmhZUGVvZ2xjd1RFWW5lOGJCNjZZVjNsYklUTlFXamdfQjhpaUt5R1lOeXRDeUg3VHhxUFZ0ZVpOUENsQdIBlwFBVV95cUxPY2ZhMk9TaW0yalFUOU1zZ19NSWtqUnVpZFlVRzJLdjMwR3hhMkFCZjhSU0tvUnhjdUxoaFVyRzM3N3ItMnVyWVg5b0QyUmlzdFlOSmtDeHBjQ1hPMER2ODdudkpFN01QajFyOS1aa0k1NXd2QWVzQUY4WXZ1OW90N3hRSXUzeW9URzVSZnlKSjRhQkpyaGxn?oc=5",
    "time": "2026-11-16T15:46:00+00:00",
